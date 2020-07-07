@@ -17,7 +17,7 @@ __Location:__ the courses will be fully online.
 Pre-register to the courses
 ============================
 
-[You can pre-register here to the course](https://docs.google.com/forms/d/1uehc_RdyGJqFNIytJgpkbjjQFgDy_Ryq1ht20ONRWmE/prefill).
+[You can pre-register here to the course](https://docs.google.com/forms/d/e/1FAIpQLScIGuKpZaG51WzyXSTY8sUnAwgio32VFZssjOJbX85cwexbIg/viewform?usp=pp_url).
 
 PSL students have priority if they pre-register before August 15th.
 
