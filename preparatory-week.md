@@ -21,15 +21,45 @@ Pre-register to the courses
 
 PSL students have priority if they pre-register before August 15th.
 
-Courses content
+Program
 ============================
 
-Tentative program for the courses:
-- Day 1: Introduction to Python for data sciences.
-- Day 2: Basics of optimization.
-- Day 3: Basics of machine learning.
-- Day 4: Cases study and more advanced topics.
-- Day 5: Data bases.
+**Monday**:
+* 9:00--10:30: (course) Machine learning: recent successes.
+* 11:00-12:30: (course) Introduction to machine learning.
+* 14:00-17:00: (numerics) Introduction to Python and Numpy for data sciences.
+
+**Tuesday:**
+* 9:00--10:30: (course) Machine learning models (linear, trees, neural networks).
+* 11:00-12:30: (course) Scikit-learn: estimation/prediction/transformation.
+* 14:00-17:00: (numerics) Practice of Scikit-learn.
+
+**Wednesday:**
+* 9:00--10:30: (course) Optimization for linear models.
+* 11:00-12:30: (course) Practical optimization for ML.
+* 14:00-17:00: (numerics) Logistic regression with gradient descent.
+
+**Thursday:**
+* 9:00--10:30: (course)  Introduction to deep learning.
+* 11:00-12:30: (course) Differentiable programming.
+* 14:00-17:00: (numerics) Classification with PyTorch and GPUs.
+
+**Friday:**  Database (program TBA)
+
+
+Course materials
+============================
+
+Slides and suplementary materials for the lecture and numerics [are available from here](https://github.com/data-psl/lectures2020).
+
+Practical information
+============================
+
+The course will be given on a Discord server. We recommend that you install [discord](https://discord.com/). The link to the server will be given to registered students.
+
+The afternoon are dedicated to practical sessions using Python. Students will be on their own under a weak supervision from the teachers. Students can use the discord server chat to communicate, share information, codes, data and help each other during these session.
+
+These practical sessions will necessitate the use of Python 3 with the standard Scipy ecosystem, Scikit-learn and Pytorch. They will make use of Jupyter notebooks. The easiest way to proceed is to have a gmail account and make use of a remote [Google Colab](https://colab.research.google.com/) to run the notebooks. If you are not confortable with this, or if you want to run the code locally, you need to install the requested python package, preferably using [Anaconda](https://www.anaconda.com/).
 
 Teachers
 ============================
@@ -37,3 +67,4 @@ Teachers
 - [Pierre Ablin](https://pierreablin.com/) (ENS)
 - [Mathieu Blondel](http://mblondel.org/) (Google Brain)
 - [Arthur Mensch](https://www.amensch.fr/) (ENS)
+- [Pierre Senellart](https://pierre.senellart.com/) (ENS).
