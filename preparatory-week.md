@@ -27,25 +27,27 @@ Program
 **Monday**:
 * 9:00--10:30: (course) Machine learning: recent successes.
 * 11:00-12:30: (course) Introduction to machine learning.
-* 14:00-17:00: (numerics) Introduction to Python and Numpy for data sciences.
+* 14:00-17:00: (lab session) Introduction to Python and Numpy for data sciences.
 
 **Tuesday:**
 * 9:00--10:30: (course) Machine learning models (linear, trees, neural networks).
 * 11:00-12:30: (course) Scikit-learn: estimation/prediction/transformation.
-* 14:00-17:00: (numerics) Practice of Scikit-learn.
+* 14:00-17:00: (lab session) Practice of Scikit-learn.
 
 **Wednesday:**
 * 9:00--10:30: (course) Optimization for linear models.
 * 11:00-12:30: (course) Practical optimization for ML.
-* 14:00-17:00: (numerics) Logistic regression with gradient descent.
+* 14:00-17:00: (lab session) Logistic regression with gradient descent.
 
 **Thursday:**
 * 9:00--10:30: (course)  Introduction to deep learning.
 * 11:00-12:30: (course) Differentiable programming.
-* 14:00-17:00: (numerics) Classification with PyTorch and GPUs.
+* 14:00-17:00: (lab session) Classification with PyTorch and GPUs.
 
-**Friday:**  Database (program TBA)
-
+**Friday:**   
+* 09:00-10:30: (course) Introduction to relational database management systems 1/2
+* 11:00-12:30: (course) Introduction to relational database management systems 2/2
+* 14:00-17:00: (lab session) Introduction to databases in practice with PostgreSQL and Python
 
 Course materials
 ============================
