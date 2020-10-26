@@ -21,7 +21,7 @@ Location: TBA
 Pre-register to the Courses
 ============================
 
-[Pre-registration is free but mendatory](https://forms.gle/qQFKg8FH3BLsEVxM6).
+[Pre-registration is free but mandatory](https://forms.gle/qQFKg8FH3BLsEVxM6).
 
 PSL students have priority if they pre-register before January 31st.
 
