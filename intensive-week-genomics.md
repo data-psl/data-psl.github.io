@@ -19,7 +19,7 @@ Location: TBA.
 Pre-register to the Courses
 ============================
 
-[Pre-registration is free but mendatory](https://forms.gle/qQFKg8FH3BLsEVxM6).
+[Pre-registration is free but mandatory](https://forms.gle/qQFKg8FH3BLsEVxM6).
 
 PSL students have priority if they pre-register before January 31st.
 
@@ -40,7 +40,7 @@ Day 2:
 - Afternoon: multi-omics integration: networks
 
 Day 3:
-- Morning: Amulti-omics integration: dimensionality reduction
+- Morning: multi-omics integration: dimensionality reduction
 - Afternoon: Q&A on projects and general questions
 
 Day 4:
