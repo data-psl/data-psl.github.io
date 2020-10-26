@@ -54,9 +54,11 @@ _Examples of projects include:_
 Schedule
 ============================
 
-<div align="center">
+TBA.
+
+<!-- <div align="center">
 <img src="../master-data/timing.png" width="600"/>
-</div>
+</div> -->
 
 Organizers
 ============================
