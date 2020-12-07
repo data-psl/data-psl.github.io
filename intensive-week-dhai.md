@@ -36,7 +36,7 @@ _List of  courses:_
 - Course 2: [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/), _Computer vision for the humanities_.
 - Course 3: [Béatrice Joyeux-Prunel](https://artlas.huma-num.fr/en/staff-member/beatrice-joyeux-prunel-2/), _History of art and AI_.
 - Course 4: [Jean-Baptiste Camps](http://www.chartes.psl.eu/fr/jean-baptiste-camps), _NLP for the humanities_.
-- Course 5: [Galla Topalian](https://univ-paris1.academia.edu/GallaTopalian) and [Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson), _History of astronomy_.
+- Course 5: [Ségolène Albouy and Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson), _History of astronomy and AI_.
 
 
 _The practical sessions will feature:_
