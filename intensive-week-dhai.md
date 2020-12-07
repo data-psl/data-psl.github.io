@@ -35,7 +35,7 @@ _List of  courses:_
 - Course 1: [Léa Saint-Raymond](https://u-paris10.academia.edu/LéaSaintRaymond), _Quantitative data analysis and cartography_.
 - Course 2: [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/), _Computer vision for the humanities_.
 - Course 3: [Béatrice Joyeux-Prunel](https://artlas.huma-num.fr/en/staff-member/beatrice-joyeux-prunel-2/), _History of art and AI_.
-- Course 4: [Jean-Baptiste Camps](http://www.chartes.psl.eu/fr/jean-baptiste-camps), _NLP for the humanities_.
+- Course 4: [Jean-Baptiste Camps](http://www.chartes.psl.eu/fr/jean-baptiste-camps) and [Thierry Poibeau](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/), _NLP for the humanities_.
 - Course 5: [Ségolène Albouy and Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson), _History of astronomy and AI_.
 
 
