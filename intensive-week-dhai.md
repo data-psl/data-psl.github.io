@@ -60,6 +60,18 @@ TBA.
 <img src="../master-data/timing.png" width="600"/>
 </div> -->
 
+Detailed contents
+============================
+
+
+
+**Course 5: [Ségolène Albouy and Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson), _History of astronomy and AI_:**
+
+- _History of astronomy and AI: an overview:_ From Delambre (Histoire de l’astronomie ancienne, Paris,1817) through Neugebauer (History of Ancient Mathematical Astronomy, Berlin, 1975), the history of astronomy produced in Europe has a long relation to quantitative methods. Towards the end of the 1960s, this association intensified with the use of computers to assess ancient observations and computation methods (Poulle and Gingerich, 1968). Today, the rise of digital humanities and its coupling with AI opens new possibilities explored by different research projects. Based on a historiographical overview, this session will illustrate the current challenges emerging at the interface of history of astronomy, AI and Digital humanities with respect to artificial vision, text analysis and reenactment of ancient computations. We will discuss how AI can tackle ambitious challenges relating to issues as diverse as mathematical questions, genealogy of sources, transcription, diagram vectorization, and more.
+- _A step aside:_ from document to data: Based on various examples from the previous session, we will explore how different datasets, exploitable by artificial intelligence algorithms, can be built to address, from historical sources, questions of various nature. We will evoke the stakes related to the transformation of a material document to its various digital representations: from the point of view of its acquisition, its modeling, its encoding, its “augmentation” or even its “simulation”. Finally, we will discuss what constitutes pertinent training datasets from a human sciences perspective as well as a machine learning perspective.
+
+
+
 Organizers
 ============================
 
