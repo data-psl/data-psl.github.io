@@ -34,7 +34,7 @@ _List of  courses:_
 
 - Course 1: [Léa Saint-Raymond](https://u-paris10.academia.edu/LéaSaintRaymond), _Quantitative data analysis and cartography_.
 - Course 2: [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/), _Computer vision for the humanities_.
-- Course 3: [Béatrice Joyeux-Prunel](https://artlas.huma-num.fr/en/staff-member/beatrice-joyeux-prunel-2/), _History of art and AI_.
+- Course 3: [Béatrice Joyeux-Prunel](https://www.unige.ch/lettres/humanites-numeriques/fr/equipe/collaborateurs/prof-beatrice-joyeux-prunel/), _Art History and AI: Data Science applied to Visual Contagions_.
 - Course 4: [Jean-Baptiste Camps](http://www.chartes.psl.eu/fr/jean-baptiste-camps) and [Thierry Poibeau](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/), _NLP for the humanities_.
 - Course 5: [Ségolène Albouy and Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson), _History of astronomy and AI_.
 
@@ -63,7 +63,15 @@ TBA.
 Detailed contents
 ============================
 
+**Course 2: [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/), _Computer vision for the humanities_:**
 
+- Introduction to Computer Vision with a specific focus on Deep Learning. We will introduce the basic principles of Machine Learning and Neural Networks for Computer Vision applications. We will outline the specific difficulties of applications to historical and artistic data, standard use cases in digital humanity (image search, document segmentation, image recognition) and examples of specific projects on [artwork price prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3347175), [historical watermark recognition](http://imagine.enpc.fr/~shenx/Watermark/), [pattern recognition](http://imagine.enpc.fr/~shenx/ArtMiner/) and [discovery in artwork datasets](http://imagine.enpc.fr/~shenx/ArtMiner/).
+
+**Course 3: [Béatrice Joyeux-Prunel](https://www.unige.ch/lettres/humanites-numeriques/fr/equipe/collaborateurs/prof-beatrice-joyeux-prunel/), _Art History and AI: Data Science applied to Visual Contagions_:**
+
+- _How do images circulate; what makes a visual blockbuster? Is it possible to study whether in globalisation, over the long term, cultures have converged - and to study it through images?_ We often speak of cultural globalisation as early as the 19th century, which accelerated after 1945, and that the regime of circulation of information and images has accelerated even more since the Internet. But little is known about the channels, factors, and speed of this globalisation. Are there times, places or cultures that have resisted cultural homogenisation? It is also difficult to explain why one image circulates more than another. Art history has been very interested in styles; but it does not deal much with globalisation other than through case studies. Today, the availability of unprecedented visual corpuses, whose metadata allow us to know where and when an image was seen, printed, or purchased, makes it possible to attempt a global analysis of these phenomena.
+- _In the course_ Professor Joyeux-Prunel will show the digital strategies that have been deployed over the last ten years to study the global circulation of images; it will evaluate their results, their limits, and what remains to be done.
+- _The workshop proposed_ in connection with the course aims at participating in "what remains to be done". From digitized corpuses of illustrated prints and images, and/or internet images from social networks, and the application of vision algorithms (identification of duplicates, of styles, of patterns), we propose to the group to identify the circulation of patterns on a worldwide (or at least European) scale. Then, using statistical and data visualisation methods, it will be a question of analizing the history, the geography and the factors that may contribute to this global circulation of styles and visual patterns. Depending on the results obtained by the group, a prediction experiment could then be tested: predicting a potentially (statistically) "global" “successful” picture, which will be launched on social networks to test their effectiveness.
 
 **Course 5: [Ségolène Albouy and Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson), _History of astronomy and AI_:**
 
