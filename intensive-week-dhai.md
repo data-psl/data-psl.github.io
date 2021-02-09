@@ -78,6 +78,7 @@ Detailed contents
 **Course 4: [Jean-Baptiste Camps](http://www.chartes.psl.eu/fr/jean-baptiste-camps) and [Thierry Poibeau](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/), _Introduction to Digital Philology and natural language processing_:**
 
 - _For the "automatic language processing" part_, we will present the notion of named entities, a well-known notion, which plays an important role for many applications in Digital Humanities. We will show that the analysis of entities is far from being a solved problem, the systems still lacking robustness in the face of the great diversity of data. Finally, we will present an overview of the analysis methods used (symbolic and statistical), with their respective advantages and disadvantages.
+- _The computational philology course_ will focus on an introduction to stylometry, and more specifically to supervised methods. It will introduce general notions on the measure of style, and will present how it is possible to build author profiles to attribute disputed or anonymous texts, or to try to disentangle individual contributions in collaborative works.
 
 **Course 5: [Ségolène Albouy and Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson), _History of astronomy and AI_:**
 
