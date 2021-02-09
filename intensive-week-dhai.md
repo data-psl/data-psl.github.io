@@ -35,7 +35,7 @@ _List of  courses:_
 - Course 1: [Léa Saint-Raymond](https://u-paris10.academia.edu/LéaSaintRaymond), _Quantitative data analysis and cartography_.
 - Course 2: [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/), _Computer vision for the humanities_.
 - Course 3: [Béatrice Joyeux-Prunel](https://www.unige.ch/lettres/humanites-numeriques/fr/equipe/collaborateurs/prof-beatrice-joyeux-prunel/), _Art History and AI: Data Science applied to Visual Contagions_.
-- Course 4: [Jean-Baptiste Camps](http://www.chartes.psl.eu/fr/jean-baptiste-camps) and [Thierry Poibeau](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/), _NLP for the humanities_.
+- Course 4: [Jean-Baptiste Camps](http://www.chartes.psl.eu/fr/jean-baptiste-camps) and [Thierry Poibeau](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/), _Introduction to Digital Philology and natural language processing_.
 - Course 5: [Ségolène Albouy and Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson), _History of astronomy and AI_.
 
 
@@ -75,7 +75,7 @@ Detailed contents
 - _In the course_ Professor Joyeux-Prunel will show the digital strategies that have been deployed over the last ten years to study the global circulation of images; it will evaluate their results, their limits, and what remains to be done.
 - _The workshop proposed_ in connection with the course aims at participating in "what remains to be done". From digitized corpuses of illustrated prints and images, and/or internet images from social networks, and the application of vision algorithms (identification of duplicates, of styles, of patterns), we propose to the group to identify the circulation of patterns on a worldwide (or at least European) scale. Then, using statistical and data visualisation methods, it will be a question of analizing the history, the geography and the factors that may contribute to this global circulation of styles and visual patterns. Depending on the results obtained by the group, a prediction experiment could then be tested: predicting a potentially (statistically) "global" “successful” picture, which will be launched on social networks to test their effectiveness.
 
-**Course 4: [Jean-Baptiste Camps](http://www.chartes.psl.eu/fr/jean-baptiste-camps) and [Thierry Poibeau](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/), _NLP for the humanities_:**
+**Course 4: [Jean-Baptiste Camps](http://www.chartes.psl.eu/fr/jean-baptiste-camps) and [Thierry Poibeau](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/), _Introduction to Digital Philology and natural language processing_:**
 
 - _For the "automatic language processing" part_, we will present the notion of named entities, a well-known notion, which plays an important role for many applications in Digital Humanities. We will show that the analysis of entities is far from being a solved problem, the systems still lacking robustness in the face of the great diversity of data. Finally, we will present an overview of the analysis methods used (symbolic and statistical), with their respective advantages and disadvantages.
 
