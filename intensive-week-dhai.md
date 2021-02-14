@@ -65,6 +65,21 @@ Detailed contents
 
 **Course 1: [Léa Saint-Raymond](https://u-paris10.academia.edu/LéaSaintRaymond), _Quantitative data analysis and cartography_:**
 
+This course offers training in computational data analysis. Students will receive the following theoretical and practical basics:
+- Basic statistics and econometrics
+- Factor analysis
+- Network Analysis
+- Cartography
+
+At the end of this training, students will be able to explore a corpus of data and analyze it from a quantitative and relational perspective. They will master the following software:
+- R
+- QGis
+- Gephi
+- and, for the exploratory part, Palladio
+
+The project will take as its starting point an exhaustive corpus of exhibitions that took place in Toulouse between 1907 and 1939. The students will question the social and prosopographic logics of the exhibitors (the "artistes méridionaux"), analyze the sale price of the exhibited works, and conduct a textual and geographical analysis of the titles.
+
+
 **Course 2: [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/), _Computer vision for the humanities_:**
 
 - Introduction to Computer Vision with a specific focus on Deep Learning. We will introduce the basic principles of Machine Learning and Neural Networks for Computer Vision applications. We will outline the specific difficulties of applications to historical and artistic data, standard use cases in digital humanity (image search, document segmentation, image recognition) and examples of specific projects on [artwork price prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3347175), [historical watermark recognition](http://imagine.enpc.fr/~shenx/Watermark/), [pattern recognition](http://imagine.enpc.fr/~shenx/ArtMiner/) and [discovery in artwork datasets](http://imagine.enpc.fr/~shenx/ArtMiner/).
