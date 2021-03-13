@@ -33,7 +33,7 @@ Schedule
 
 
 _Day 1: 29/03, Morning:_
-- Biologists: 9h-12h Andrei Zynoviev introduction to machine learning
+- Biologists: 9h-12h Andrei Zinovyev introduction to machine learning
 - Math/Machine Learning students: 9h-12h Veronique Stoven introduction to genomics
 
 _Day 1: 29/03, Afternoon:_ Flora Jay, Jean Cury (population genetics)
