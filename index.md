@@ -9,3 +9,4 @@ Welcome to the homepage of the transverse program for data sciences of PSL. This
 
 - [Preparatory teaching week on machine learning](./preparatory-week).
 - [Intensive training weeks](./intensive-week)
+
