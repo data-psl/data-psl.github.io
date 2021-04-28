@@ -2,7 +2,7 @@
 layout: page
 title: "Machine Learning and AI for Economics and Finance"
 description: "PSL and Dauphine summer school"
-header-img: "img/dauphine-view.jpg"
+header-img: "img/dauphine-back.jpg"
 ---
 
 As part of the special "transverse program" DATA of PSL, we organize the Eco/Finance IA summer school. You want to learn: 
