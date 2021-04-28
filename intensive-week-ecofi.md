@@ -141,7 +141,7 @@ Two topics in this session animated by Eric Benhamou
 
 
   - Overview of recent research in Corporate Finance using NLP
-  - SEC EDGAR fillings
+  - SEC EDGAR filling
      - Accessing SEC EDGAR 
      - Filing indices 
      - 8-K, 10-K download and parsing
@@ -149,6 +149,15 @@ Two topics in this session animated by Eric Benhamou
      - tone and sentiment 
      - intangible assets 
   - Application to M&As
+
+#### Deep learning for Natural Language Processing
+This session will review the main architectures used in state of the art approaches for NLP.
+- Word embeddings and language models
+- Recurrent architectures and LSTM
+- Transformers and Contextualised embeddings (BERT, GPT)
+- The essential tools (pytorch and huggingface)
+- The stakes in finance: explainability, interpretability, transparency, and fairness
+- The promises and the limits
 
 # Organizers
 
