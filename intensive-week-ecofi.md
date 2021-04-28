@@ -5,7 +5,7 @@ description: "PSL and Dauphine summer school"
 header-img: "img/dauphine-back.jpg"
 ---
 
-As part of the special "transverse program" DATA of PSL, we organize the Eco/Finance IA summer school. You want to learn: 
+As part of the special "transverse program" DATA of PSL, we organize the Eco/Finance AI summer school. You want to learn: 
 - How AI can interact with economics and finance ?
 - How to build machine learning models from data ?
 - What is the connection between causality and machine learning ? 
@@ -41,7 +41,7 @@ Location: Virtual
 # Pre-register to the Courses
 
 
-[Pre-registration is free but mandatory](https://forms.gle/xxxx).
+[Pre-registration is free but mandatory](https://forms.gle/DgQfyCBBuhawgX1c7).
 
 PSL students have priority if they pre-register before XXX.
 
@@ -69,18 +69,17 @@ The expected program is described below:
 |                      |                          14:00-17:00 | Bankruptcy prediction - Part 1              |
 |                      |                                      | (**Fabrice Riva**)                          |
 |----------------------|--------------------------------------|---------------------------------------------|
-| June  9              |                           9:00-12:00 | Bankruptcy  prediction – Part 2             |
-|                      |                                      | (**Fabrice Riva**)                          |
+| June  9              |                           9:00-12:00 | GDP  prediction and credit risk             |
+|                      |                                      | (**Nicolas Woloszko and Christophe Hurlin**)|
 |                      |                          14:00-16:00 | NLP  for corporate finance                  |
 |                      |                                      | (**Zoran Filipovic**)                       |
 |                      |                          16:00-17:00 | Derivative-Free  Optimzation (DFO)          |
 |                      |                                      | (**Clément Royer**)                         |
 |----------------------|--------------------------------------|---------------------------------------------|
-| June  10             |                           9:00-12:00 | GDP  prediction and credit risk             |
-|                      |                                      | (**Sylvain Benoit**)                        |
+| June  10             |                           9:00-12:00 |       Bankruptcy  prediction – Part 2       |
+|                      |                                      | (**Fabrice Riva**)                          |
 |                      |                          14:00-17:00 | Advanced  NLP                               |
 |                      |                                      | (**Syrielle Montariol**)                    |
-|----------------------|--------------------------------------|---------------------------------------------|
 |----------------------|--------------------------------------|---------------------------------------------|
 | June  11             |                           9:00-12:00 | Computer  vision and dimensionality         |
 |                      |                                      | dimensionality  (**Ivan Laptev**)           |
@@ -93,7 +92,7 @@ The expected program is described below:
 Many courses will include lab parts. All the code will rely on Python. If you want to setup your computer, you can install anaconda. This Python distribution comes with all the necessary tools. You can also use Google Colab with a Google account.
 
 
-####  Bankruptcy prediction
+####  Bankruptcy prediction 
 
 - Part 1 : Code from scratch a Python program, whose objective is to compute the probability that a firm goes bankrupt using logistic regressions estimated via stochastic gradient descent (SGD). The lecture will cover the following concepts:
      -  Data cleaning, feature standardization and normalization
@@ -106,9 +105,53 @@ Many courses will include lab parts. All the code will rely on Python. If you wa
      - SVM
      - Decision trees and random forests
 
+#### GDP  prediction and credit risk
 
-Organizers
-============================
+This session is co-animated by Nicolas Woloszko and Christophe Hurlin.
+
+##### A Weekly Tracker of GDP growth  
+
+The OECD Weekly Tracker of GDP growth provides a real-time weekly indicator of economic activity using machine learning and Google Trends data. It has a wide country coverage of OECD and G20 countries. The Tracker is well suited to assessing activity during the turbulent period of the current global pandemic. It applies a machine learning model to a panel of Google Trends data for 45 countries, and aggregates together information about search behaviour related to consumption, labour markets, housing, trade, industrial activity and economic uncertainty. The Tracker provides estimates of year-on-year growth in weekly GDP, that were used in the OECD Economic Outlook and that are released in real-time on a dedicated webpage.  
+
+##### Credit Risk
+Artificial Intelligence (AI) can systematically treat unfavourably a group of individuals sharing a protected attribute (e.g. gender, age, race). In credit scoring applications, this lack of fairness can severely distort access to credit and expose AI-enabled financial institutions to legal and reputational risks. The goal of my lecture is to show how to assess the fairness of AI algorithms used in credit markets. First, I propose an inference procedure to test various fairness metrics. Second, I present an interpretability technique, called Fairness Partial Dependence Plot, to identify the source(s) of the lack of fairness and mitigate fairness concerns. Finally, I illustrate the efficiency of this framework using a dataset of consumer loans and a series of machine-learning algorithms.
+
+#### Robo advisors and ML for asset management
+Two topics in this session animated by Eric Benhamou
+
+- Robo advisors
+  - Generation 1.0 of robo-advisors based on modern portfolio theory
+  - Generation 2.0 of robo-advisors based on AI (SL, Deep and DRL)
+  - AUM growth of funds managed by robo-advisors
+
+- ML for asset management
+  - Current wave of digitalization and 4th industrial revolution with artificial intelligence and robotics
+  - Misconception about financial ML
+  - Understanding time series
+  - Testing methodology: backtesting, overfitting risk and walk forward
+
+#### RL and deep RL
+  - Introduction to Reinforcement learning, Cross validation
+  - Presentation of the various algorithms: DQN, A2C, A3C
+  - Next generation of Deep RL with PPO, DDPG
+  - Combining Deep RL and Supervised Learning with SSA, P2A and curiosity
+  - Deep RL with BBO
+
+#### NLP for Corporate Finance
+
+
+  - Overview of recent research in Corporate Finance using NLP
+  - SEC EDGAR fillings
+     - Accessing SEC EDGAR 
+     - Filing indices 
+     - 8-K, 10-K download and parsing
+  - Financial dictionaries
+     - tone and sentiment 
+     - intangible assets 
+  - Application to M&As
+
+# Organizers
+
 
 - [Fabrice Riva](http://www.finance.dauphine.fr/membres/fabrice-riva/)
 - [Bruno Bouchard](https://www.ceremade.dauphine.fr/~bouchard/bouchard.htm)
