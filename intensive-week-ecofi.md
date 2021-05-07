@@ -26,6 +26,7 @@ _Important:_ Master and PhD students should check with their administration if t
 - [Ivan Laptev](https://www.di.ens.fr/~laptev/)
 - [Sylvain Benoit](https://sites.google.com/site/sylvainbenoit87/)
 - [Clément Royer](https://www.lamsade.dauphine.fr/~croyer/)
+- [Zoran Filipovic](https://sites.google.com/view/zoranfilipovic)
 - [Arthur Mensch](https://www.amensch.fr/)
 - [Syrielle Montariol](https://smontariol.github.io/)
 - [Eric Benhamou](https://www.lamsade.dauphine.fr/~ebenhamou/)
