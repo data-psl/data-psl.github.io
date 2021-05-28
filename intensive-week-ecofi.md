@@ -64,6 +64,7 @@ The expected program is described below:
 |                      |                                      | (**Arthur Mensch**)                         |
 |                      |                          14:00-16:00 | Robo-advisors  and ML                       |
 |                      |                                      | for asset management  (**Eric Benhamou**)   |
+|                      |                                      | (**Eric Benhamou - David Saltiel**)         |
 |----------------------|--------------------------------------|---------------------------------------------|
 | June 8               |                           9:00-12:00 | Causality                                   |
 |                      |                                      | (**Jonas Petters and Sebastian Weichwald**) |
@@ -84,8 +85,9 @@ The expected program is described below:
 |----------------------|--------------------------------------|---------------------------------------------|
 | June  11             |                           9:00-12:00 | Computer  vision and dimensionality         |
 |                      |                                      | dimensionality  (**Ivan Laptev**)           |
-|                      |                          14:00-17:00 | RL  and deep RL    (**Eric Benhamou**)      |
-
+|                      |                          14:00-17:00 | RL  and deep RL                             |
+|                      |                                      | (**Eric Benhamou - David Saltiel**)         |
+|----------------------|--------------------------------------|---------------------------------------------|
 
 
 # Detailed contents
