@@ -67,7 +67,7 @@ The expected program is described below:
 |                      |                                      | (**Eric Benhamou - David Saltiel**)         |
 |----------------------|--------------------------------------|---------------------------------------------|
 | June 8               |                           9:00-12:00 | Causality                                   |
-|                      |                                      | (**Jonas Petters and Sebastian Weichwald**) |
+|                      |                                      | (**Jonas Peters and Sebastian Weichwald**) |
 |                      |                          14:00-17:00 | Bankruptcy prediction - Part 1              |
 |                      |                                      | (**Fabrice Riva**)                          |
 |----------------------|--------------------------------------|---------------------------------------------|
