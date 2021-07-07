@@ -10,14 +10,14 @@ This week of introduction to machine learning is open to all master and PhD stud
 Dates and location
 ============================
 
-__Dates:__ August 31st to September 4th 2020.
+__Dates:__ 6 to  11 Sept. 2021.
 
-__Location:__ the courses will be fully online.
+__Location:__ Dauphine + online (TBC).
 
 Pre-register to the courses
 ============================
 
-[You can pre-register here to the course](https://docs.google.com/forms/d/e/1FAIpQLScIGuKpZaG51WzyXSTY8sUnAwgio32VFZssjOJbX85cwexbIg/viewform?usp=pp_url).
+[You can pre-register here to the course](https://docs.google.com/forms/d/e/1FAIpQLScDGyUNueBISzGyusVZwXmM46HNNmAxsyUGSN2LJhr5xXaWxw/viewform?usp=sf_link).
 
 PSL students have priority if they pre-register before August 15th.
 
