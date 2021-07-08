@@ -45,13 +45,9 @@ Program
 * 14:00-17:00: (lab session) Classification with PyTorch and GPUs.
 
 **Friday:**   
-* 09:00-10:30: (course) Introduction to spark for ML 1/2 
-* 11:00-12:30: (course) Introduction to spark for ML 2/2
-* 14:00-17:00: (lab session) spark for ML 
-
-
-**Saturday:**
-* 9:00-12:00: (course) Ethic in Data Science
+* 09:00-10:30: (course) Introduction to relational database management systems 1/2
+* 11:00-12:30: (course) Introduction to relational database management systems 2/2
+* 14:00-17:00: (lab session) Introduction to databases in practice with PostgreSQL and Python
 
 Course materials
 ============================
@@ -73,4 +69,4 @@ Teachers
 - [Pierre Ablin](https://pierreablin.com/) (ENS)
 - [Mathieu Blondel](http://mblondel.org/) (Google Brain)
 - [Arthur Mensch](https://www.amensch.fr/) (ENS)
-- [Dario Colazzo](https://www.lamsade.dauphine.fr/~colazzo/) (Dauphine).
+- [Pierre Senellart](https://pierre.senellart.com/) (ENS).
