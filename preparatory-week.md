@@ -48,7 +48,7 @@ questions of the students.
 
 
 
-# Preparatory week on machine learning, spark and ethics
+# Preparatory week on machine learning, bigdata and ethics
 
 ## Dates and (expected) location
 
