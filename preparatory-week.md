@@ -1,11 +1,21 @@
 ---
 layout: page
-title: "PSL Preparatory Week"
-description: "Preparation courses on machine learning"
-header-img: "img/ens-garden-2.jpg"
+title: "PSL Preparatory Weeks"
+description: "Preparation courses on machine learning, 2021"
+header-img: "img/dauphine-back.jpg"
 ---
 
-This week of introduction to machine learning is open to all master and PhD students from PSL. Subject to availabilities, students from other universities can also attend.
+This year, the transverse program for data sciences of PSL proposes two preparatory weeks :
+- The first  (starting the 30th of August)  focuses on basics in math and data science. The students will follow it **remotely and autonomously**. For each part, video lectures, exercise sheets and lab
+sessions (Python notebooks) will be provided.
+- The second week (6 to  11 Sept. 2021) provides   an introduction to machine learning, data managment, and the  ethics of data science.   
+
+Both weeks are open to all master and PhD students from PSL. Subject
+to availabilities, students from other universities can also
+attend. The registration is free but mandatory.  See the two links
+below, one for each week.
+
+# Preparatory week
 
 Dates and location
 ============================
