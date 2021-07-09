@@ -24,7 +24,7 @@ content (lectures and exercises) should represent about a half day of work (arou
 and the lab session also. It is advised to watch the theoretical content in the morning, and do
 the lab session in the afternoon of the same day.
 
-## Pre-register to the first week
+## Pre-registration
 
 [You can pre-register here to the course](https://forms.gle/BaDSwntNRoqGxdPD9).
 
@@ -60,7 +60,7 @@ __Location:__ Dauphine + online (TBC).
 
 The sessions will be both at Dauphine (if possible) and remotely. 
 
-## Pre-register to the second week
+## Pre-registration
 
 [You can pre-register here to the course](https://forms.gle/ESDtUAYssDZve3KQ6).
 
