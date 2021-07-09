@@ -6,7 +6,7 @@ header-img: "img/dauphine-back.jpg"
 ---
 
 This year, the transverse program for data sciences of PSL proposes two preparatory weeks :
-- The first  (starting the 30th of August)  focuses on basics in math and data science. The students will follow it **remotely and autonomously**. For each part, video lectures, exercise sheets and lab
+- [The first](#Preparatory-week-on-machine-learning,-spark-and-ethics)  (starting the 30th of August)  focuses on basics in math and data science. The students will follow it **remotely and autonomously**. For each part, video lectures, exercise sheets and lab
 sessions (Python notebooks) will be provided.
 - The second week (6 to  11 Sept. 2021) provides   an introduction to machine learning, data managment, and the  ethics of data science.   
 
@@ -24,7 +24,7 @@ content (lectures and exercises) should represent about a half day of work (arou
 and the lab session also. It is advised to watch the theoretical content in the morning, and do
 the lab session in the afternoon of the same day.
 
-## Pre-register to the courses
+## Pre-register to the first week
 
 [You can pre-register here to the course](https://forms.gle/BaDSwntNRoqGxdPD9).
 
@@ -60,7 +60,7 @@ __Location:__ Dauphine + online (TBC).
 
 The sessions will be both at Dauphine (if possible) and remotely. 
 
-## Pre-register to the courses
+## Pre-register to the second week
 
 [You can pre-register here to the course](https://forms.gle/ESDtUAYssDZve3KQ6).
 
