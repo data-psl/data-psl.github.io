@@ -17,7 +17,7 @@ below, one for each week.
 
 # Preparatory week
 
-## Dates and location
+## Dates and expected location 
 
 
 __Dates:__ 6 to  11 Sept. 2021.
