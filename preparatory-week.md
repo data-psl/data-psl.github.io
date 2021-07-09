@@ -6,9 +6,9 @@ header-img: "img/dauphine-back.jpg"
 ---
 
 This year, the transverse program for data sciences of PSL proposes two preparatory weeks :
-- [The first one](#Preparatory-week-on-machine-learning,-spark-and-ethics)  (starting the 30th of August)  focuses on basics in math and data science. The students will follow it **remotely and autonomously**. For each part, video lectures, exercise sheets and lab
+- **The preparatory week on basics** in math and data science (starting the 30th of August). The students will follow it **remotely and autonomously**. For each part, video lectures, exercise sheets and lab
 sessions (Python notebooks) will be provided.
-- The second week (6 to  11 Sept. 2021) provides   an introduction to machine learning, data managment, and the  ethics of data science.   
+- **The preparatory week on machine learning, bigdata, and  ethics**  (6 to  11 Sept. 2021) 
 
 Both weeks are open to all master and PhD students from PSL. Subject
 to availabilities, students from other universities can also
