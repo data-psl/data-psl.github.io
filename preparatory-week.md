@@ -85,14 +85,13 @@ PSL students have priority if they pre-register before August 15th.
 * 14:00-17:00: (lab session) Logistic regression with gradient descent.
 
 **Thursday:**
-* 9:00--10:30: (course)  Introduction to deep learning.
-* 11:00-12:30: (course) Differentiable programming.
+* 9:00--10:30: (course) Introduction to deep learning.
+* 11:00-12:30: (course) Unsupervised learning
 * 14:00-17:00: (lab session) Classification with PyTorch and GPUs.
 
 **Friday:**   
 * 10:00-13:00: (course) Introduction to spark for ML 1/2 
-* 14:00-17:00: (lab session) spark for ML 
-
+* 14:00-16:00: (lab session) spark for ML 
 
 **Saturday:**
 * 9:00-12:00: (course) Ethic in Data Science
@@ -100,7 +99,7 @@ PSL students have priority if they pre-register before August 15th.
 ## Course materials
 
 
-Slides and suplementary materials for the lecture and numerics are available from here (comming soon)
+Slides and suplementary materials for the lecture and numerics are available [for the first 4 days](https://data-psl.github.io/lectures2021/). 
 
 ## Practical information
 
