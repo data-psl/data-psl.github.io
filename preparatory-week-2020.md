@@ -41,7 +41,7 @@ Program
 
 **Thursday:**
 * 9:00--10:30: (course)  Introduction to deep learning.
-* 11:00-12:30: (course) Differentiable programming.
+* 11:00-12:30: (course)  Unsupervised learning
 * 14:00-17:00: (lab session) Classification with PyTorch and GPUs.
 
 **Friday:**   
