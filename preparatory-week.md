@@ -99,7 +99,7 @@ PSL students have priority if they pre-register before August 15th.
 ## Course materials
 
 
-Slides and suplementary materials for the lecture and numerics are available [for the first 4 days](https://data-psl.github.io/lectures2021/). 
+[Slides and suplementary materials for the lecture and numerics are available.](https://data-psl.github.io/lectures2021/). 
 
 ## Practical information
 
