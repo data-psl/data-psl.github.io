@@ -21,10 +21,10 @@ h6 {
   font-weight: 800;
 }
 a {
-    color: red;
+    color: DarkRed;
 }
 a:link {
-  color: red;
+  color: DarkRed;
 }
 a:hover,
 a:focus {
