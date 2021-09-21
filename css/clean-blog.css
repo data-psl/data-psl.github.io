@@ -23,6 +23,9 @@ h6 {
 a {
     color: red;
 }
+a:link {
+  color: red;
+}
 a:hover,
 a:focus {
   color: #0085a1;
