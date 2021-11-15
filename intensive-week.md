@@ -21,7 +21,7 @@ involving data.
 
 # Upcomming weeks in spring 2022
 
-The list of intensive weeks for spring 2021:
+The list of intensive weeks for spring 2022:
 
 
 - Digital Humanities Meet Artificial Intelligence (week of the 28th of March)
@@ -31,11 +31,11 @@ The list of intensive weeks for spring 2021:
 - Machine Learning for Economics and Finance (in June)
 
 
-The dedicated web pages will be set up soon. 
+The dedicated web pages will be set up soon.
 
 
 
-# Past editions 
+# Past editions
 The list of intensive weeks for spring 2021:
 - [Machine Learning for Economics and Finance](../past/intensive-week-ecofi-2021)
 - [Machine Learning in Genomics](../past/intensive-week-genomics-2021)
