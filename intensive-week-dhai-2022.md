@@ -114,5 +114,4 @@ Organizers
 - [Gabriel Peyré](http://www.gpeyre.com)
 - [Thierry Poibeau](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/)
 - [Léa Saint-Raymond](https://u-paris10.academia.edu/LéaSaintRaymond)
-- [Galla Topalian](https://univ-paris1.academia.edu/GallaTopalian)
 - Scott Trigg
