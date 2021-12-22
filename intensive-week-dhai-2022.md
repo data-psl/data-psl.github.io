@@ -74,8 +74,6 @@ At the end of this training, students will be able to explore a corpus of data a
 - Gephi
 - and, for the exploratory part, Palladio
 
-The project will take as its starting point an exhaustive corpus of exhibitions that took place in Toulouse between 1907 and 1939. The students will question the social and prosopographic logics of the exhibitors (the "artistes méridionaux"), analyze the sale price of the exhibited works, and conduct a textual and geographical analysis of the titles.
-
 
 **Course 2: [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/), _Computer vision for the humanities_:**
 
