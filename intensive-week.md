@@ -19,12 +19,12 @@ involving data.
 
 
 
-# Upcomming weeks in spring 2022
+# Upcoming weeks in spring 2022
 
 The list of intensive weeks for spring 2022:
 
 
-- Digital Humanities Meet Artificial Intelligence (week of the 28th of March)
+- [Digital Humanities Meet Artificial Intelligence (week of the 28th of March)](../intensive-week-dhai-2022)
 - Computer Vision for Physics (week of the 28th of March)
 - Statistical Physics and Machine Learning (week of the 11th of April)
 - Machine Learning in Genomics (week of the 4th of April)
