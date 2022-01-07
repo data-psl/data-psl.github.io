@@ -16,7 +16,7 @@ Dates and location
 
 Dates: March 28 to April 1.
 
-Location: PRAIRIE/PSL (new offices in Issy-les-Moulineaux, detailed address/rooms TBA)
+Location: FRESK (10 rue d’Oradour-sur-Glane à Issy-les-Moulineaux, 92130)
 
 Pre-register to the Courses
 ============================
@@ -96,9 +96,7 @@ Organizers
 ============================
 
 - [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/)
-- [Jean-Baptiste Camps](http://www.chartes.psl.eu/fr/jean-baptiste-camps)
 - [Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson)
-- [Béatrice Joyeux-Prunel](https://artlas.huma-num.fr/en/staff-member/beatrice-joyeux-prunel-2/)
 - [Gabriel Peyré](http://www.gpeyre.com)
 - [Thierry Poibeau](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/)
 - [Léa Saint-Raymond](https://u-paris10.academia.edu/LéaSaintRaymond)
