@@ -27,7 +27,7 @@ The list of intensive weeks for spring 2022:
 - [Digital Humanities Meet Artificial Intelligence (week of the 28th of March)](../intensive-week-dhai-2022)
 - Computer Vision for Physics (week of the 28th of March)
 - Statistical Physics and Machine Learning (week of the 11th of April)
-- Machine Learning in Genomics (week of the 4th of April)
+- [Machine Learning in Genomics (week of the 4th of April)](../intensive-week-genomics-2022.md)
 - Machine Learning for Economics and Finance (in June)
 
 
@@ -36,11 +36,11 @@ For the two new intensive weeks, here is a quick overview.
 
 ## Statistical Physics and Machine Learning (week of the 11th of April)
 Organized by **Francis Bach** and **Guilio Biroli**
-- Upgrade in Physics and Machine Learning 
+- Upgrade in Physics and Machine Learning
 - Modeling from both sides (Math and Physics)
 - Statistical learning, from linear regression to over-parametrized models
 - Convex and non-convex optimization
-The course will be given by Francis Bach, Guilio Biroli and Stephane d'Ascoli. 
+The course will be given by Francis Bach, Guilio Biroli and Stephane d'Ascoli.
 The week will take place at ENS in the Physics Department.
 
 
