@@ -47,6 +47,7 @@ _Examples of projects include:_
 - Computational table exploration for Alfonsine astronomy.
 - Automatic discovery of chronologic and geographic circulation of artistic styles.
 - Improving the GROBID software for semantic description of semi-structured data.
+- Exploring the Twittersphere of the French presidential election
 - ...
 
 
