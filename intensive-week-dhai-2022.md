@@ -63,6 +63,8 @@ Detailed contents
 
 **Course 1: _Quantitative data analysis and cartography_, [Léa Saint-Raymond](https://u-paris10.academia.edu/LéaSaintRaymond) and Mathieu Rimet-Meille:**
 
+In 1944, the French state sequestered Kojiro Matsukata's collection of paintings and sculptures as enemy property. The fate of this exceptional set was chaotic, until it was returned to Japan in 1959 - France having retained masterpieces such as Van Gogh's bedroom and Gauguin's landscapes. This course aims to study these 360 artworks thanks to a computational analysis in order to eventually propose a visualization in digital humanities, through a collaborative website.
+
 This course offers training in computational data analysis. Students will receive the following theoretical and practical basics:
 - Basic statistics and econometrics
 - Factor analysis
