@@ -27,7 +27,7 @@ Dates and location
 Pre-register to the Courses
 ============================
 
-[Pre-registration is free but mandatory](https://forms.gle/9GFV8bak4LrMTtoZ6).  Everyone will have to
+[Pre-registration is free but mandatory](https://forms.gle/7NgBcAuGsPKKEiPq7).  Everyone will have to
 organize their own lunch. There are restaurants and food stores within
 walking distance of the campus. Both on-site and remote work will be
 offered, but teachers will only answer to on-site questions.
