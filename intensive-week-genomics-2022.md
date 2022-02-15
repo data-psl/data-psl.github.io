@@ -43,8 +43,8 @@ Schedule
 ============================
 
 _Day 1: 4/04, Morning:_
-- Biologists: 9h-12h Andrei Zinovyev introduction to machine learning
-- Math/Machine Learning students: 9h-12h Veronique Stoven introduction to genomics
+- Biologists: 9h-12h Andrei Zinovyev, introduction to machine learning
+- Math/Machine Learning students: 9h-12h Hugues Roest Crollius, introduction to genomics
 
 _Day 1: 4/04, Afternoon:_ Flora Jay, Jean Cury (population genetics)
 - 14h-15h Intro to population genetics problematics and datasets, focus on selection or demographic inference, presentation of inference methods based on summary statistics versus SNP data (ABC, NN).
