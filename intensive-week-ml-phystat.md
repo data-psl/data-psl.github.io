@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "PSL Intensive Week"
-description: "Machine Learning  and Statistical Physics"
+title: "Machine Learning  and Statistical Physics"
+description: "PSL Intensive Week"
 header-img: "img/ens-garden.jpg"
 ---
 
@@ -27,11 +27,7 @@ Dates and location
 Pre-register to the Courses
 ============================
 
-[Pre-registration is free but mandatory](https://forms.gle/7NgBcAuGsPKKEiPq7).  Everyone will have to
-organize their own lunch. There are restaurants and food stores within
-walking distance of the campus. Both on-site and remote work will be
-offered, but teachers will only answer to on-site questions.
-Registration for on site work is limited to 25 listeners.  PSL
+[Pre-registration is free but mandatory](https://forms.gle/7NgBcAuGsPKKEiPq7).  PSL
 students have priority if they pre-register before January 31st.
 
 Courses Content
