@@ -21,9 +21,7 @@ Location: FRESK (10 rue d’Oradour-sur-Glane à Issy-les-Moulineaux, 92130)
 Pre-register to the Courses
 ============================
 
-[Pre-registration is free but mandatory](https://forms.gle/xzJikS7YF1B2hrrk9)
-
-PSL students have priority if they pre-register before January 31st.
+Pre-registration is now closed. We will be in contact with applicants in late February to confirm registration.
 
 Courses Content
 ============================
@@ -47,7 +45,8 @@ _Examples of projects include:_
 - Computational table exploration for Alfonsine astronomy.
 - Automatic discovery of chronologic and geographic circulation of artistic styles.
 - Improving the GROBID software for semantic description of semi-structured data.
-- Exploring the Twittersphere of the French presidential election
+- Exploring the Twittersphere of the French presidential election.
+- Automatic text retrieval and alignment on a corpus of manuscript witnesses.
 - ...
 
 
