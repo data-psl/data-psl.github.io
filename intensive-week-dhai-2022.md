@@ -82,8 +82,6 @@ Introduction to Computer Vision with a specific focus on Deep Learning. We will 
 
 Natural language processing (NLP) is now everywhere and has  attained a level of performance which makes it usable in practical contexts, especially for digital humanities projects. During this course, we will see a mix of theoretical and practical issues related to NLP. We will see why NLP is hard, and why recent approaches based on machine learning have made it possible to get efficient and robust modules, usable in digital humanities projects. Lastly, we will show practical implementations, making it possible to used advanced techniques at a reduced cost (from a computational point of view) for different tasks: part-of-speech tagging, named entity recognition and parsing, among others.
 
-- Related project: _Exploring the Twittersphere of the French presidential election_, Armin Pournaki: We will learn how to design a sensible search query and collect Twitter data about the French 2022 presidential election. We will explore the data using interactive network visualizations which give a structural overview of the debate's opinion clusters and their main actors. The textual content shared by these opinion groups will then be analyzed using natural language processing methods that you got to know in your theoretical course. This data exploration will allow us to generate hypotheses about the campaigning mechanisms of political actors on online social media.
-
 
 **Course 4: _DH/AI Tools and Astronomy_, [Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson) and [Ségolène Albouy](https://github.com/Segolene-Albouy):**
 
@@ -93,16 +91,20 @@ _A step aside:_ from document to data: Based on various examples from the previo
 
 
 **Project 1: Matsukata’s Confiscated Collection (Léa Saint-Raymond with Mathieu Rimet-Meille)**
+
 In 1944, the French state sequestered Kojiro Matsukata's collection of paintings and sculptures as enemy property. The fate of this exceptional set was chaotic, until it was returned to Japan in 1959 - France having retained masterpieces such as Van Gogh's bedroom and Gauguin's landscapes. This project aims to study these 360 artworks thanks to a computational analysis in order to eventually propose a visualization in digital humanities, through a collaborative website.
 
 **Project 2: Digital workflow from text retrieval to text alignment on a medieval French text (Lucence Ing)**
+
 This project aims to explore a digital workflow on a medieval French text, the _Prose Lancelot_. The workflow enables participants to discover deep-learning methods and automatic text alignment tools. It is made up of several steps : one step of text retrieval, from the pictures of the witnesses (versions of the same text), one step of structuration and enhancement of the text thanks to the use of a deep-learning linguistic tagger, and one step of alignment of witnesses (automatic collation). Then several explorations will enable us to understand the links between the different versions of the text.
 
 **Project 3: Exploring the Twittersphere of the French presidential election (Armin Pournaki)**
+
 We will learn how to design a sensible search query and collect Twitter data about the French 2022 presidential election. We will explore the data using interactive network visualizations which give a structural overview of the debate’s opinion clusters and their main actors. The textual content shared by these opinion groups will then be analyzed using natural language processing methods that you got to know in your theoretical course. This data exploration will allow us to generate hypotheses about the campaigning mechanisms of political actors on online social media.
 
 **Project 4: Analysing medieval astronomical diagrams (Tristan Dot & Ségolène Albouy)**
-Abstract: This project will be focused on the automatic extraction and analysis of diagrams from astronomical manuscripts. After a first segmentation step (thanks to a convolutional neural network), we will use deep features in order to discover similar diagrams in our digitized corpus. We will explore how to cluster diagrams according to content and shape, without considering “style,” in order to produce the first AI-assisted critical edition of medieval astronomical diagrams.
+
+This project will be focused on the automatic extraction and analysis of diagrams from astronomical manuscripts. After a first segmentation step (thanks to a convolutional neural network), we will use deep features in order to discover similar diagrams in our digitized corpus. We will explore how to cluster diagrams according to content and shape, without considering “style,” in order to produce the first AI-assisted critical edition of medieval astronomical diagrams.
 
 
 Organizers
