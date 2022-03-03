@@ -62,7 +62,7 @@ _Day 2: 5/04, Afternoon:_ Laura and Anais (multi-omics integration: dimensionali
 
 _Day 3: 6/04, Morning:_ Laura and Anais (multi-omics integration: Networks)
 - 9h-10h Network science introduction + main networks in biology (inference + measured networks) classical measures and algorithms + RWR + MOGAMUN
-- 10h-12h hands-on session multiplex topology, communities, RWR and visualisation with muxviz
+- 10h-12h hands-on session multiplex topology, active modules, MOGAMUN and visualisation with Cytoscape.
 
 _Day 3: 6/04, Afternoon:_
 - 14h-18h Q&A projects and general questions
