@@ -42,7 +42,7 @@ Schedule
 ============================
 
 _Day 1: 28/03, Morning, 9h-12h15: Introduction and two parallel sessions_
-- Machine learning and sklearn, Arturo Baldo **or**
+- Machine learning and sklearn, Arturo Amor **or**
 - Numerical modeling, Elie Hachem
 
 _Day 1: 28/03, Afternoon, 14h-17h15 : Parallel sessions_
