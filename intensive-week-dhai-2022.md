@@ -16,12 +16,12 @@ Dates and location
 
 Dates: March 28 to April 1.
 
-Location: FRESK (10 rue d’Oradour-sur-Glane à Issy-les-Moulineaux, 92130)
+Location: PariSanté Campus (10 rue d’Oradour-sur-Glane à Issy-les-Moulineaux, 92130)
 
 Pre-register to the Courses
 ============================
 
-Pre-registration is now closed. We will be in contact with applicants in late February to confirm registration.
+Pre-registration is now closed.
 
 Courses Content
 ============================
@@ -49,8 +49,35 @@ _List of Projects:_
 Schedule
 ============================
 
-TBA.
+_Monday, March 28_
+- 09:00-10:30 - From document to data (Ségolène Albouy)
+- 11:00-12:30 - Computer vision for the humanities #1 (Mathieu Aubry)
+- 14:00-15:30 - Quantitative data analysis and cartography #1 (Léa Saint-Raymond)
+- 16:00:17:30 - Projects
 
+_Tuesday, March 29_
+- 09:00-10:30 - Quantitative data analysis and cartography #2 (Léa Saint-Raymond)
+- 11:00-12:30 - Computer vision for the humanities #2 (Mathieu Aubry)
+- 14:00-15:30 - NLP for the humanities #1 (Thierry Poibeau)
+- 16:00-17:30 - Projects
+
+_Wednesday, March 30_
+- 09:00-10:30 - History of astronomy and AI (Matthieu Husson)
+- 11:00-12:30 - NLP for the humanities #2 (Thierry Poibeau)
+- 14:00-15:30 - NLP for the humanities #3 (Thierry Poibeau)
+- 16:00:17:30 - Projects
+
+_Thursday, March 31_
+- 09:00-10:30 - Computer vision for the humanities #3 (Mathieu Aubry)
+- 11:00-12:30 - Quantitative data analysis and cartography #3 (Léa Saint-Raymond)
+- 14:00-15:30 - Projects
+- 16:00:17:30 - Projects
+
+_Friday, April 1_
+- 09:00-10:30 - Projects
+- 11:00-12:30 - Projects
+- 14:00-15:30 - Projects - defense
+- 16:00:17:30 - Projects - defense
 
 
 Detailed contents
@@ -90,7 +117,7 @@ _History of astronomy and AI: an overview:_ From Delambre (Histoire de l’astro
 _A step aside:_ from document to data: Based on various examples from the previous session, we will explore how different datasets, exploitable by artificial intelligence algorithms, can be built to address, from historical sources, questions of various nature. We will evoke the stakes related to the transformation of a material document to its various digital representations: from the point of view of its acquisition, its modeling, its encoding, its “augmentation” or even its “simulation”. Finally, we will discuss what constitutes pertinent training datasets from a human sciences perspective as well as a machine learning perspective.
 
 
-**Project 1: Matsukata’s Confiscated Collection (Léa Saint-Raymond with Mathieu Rimet-Meille)**
+**Project 1: Matsukata’s Confiscated Collection (Léa Saint-Raymond with Mathieu Rimet-Meille and Quentin Bernet)**
 
 In 1944, the French state sequestered Kojiro Matsukata's collection of paintings and sculptures as enemy property. The fate of this exceptional set was chaotic, until it was returned to Japan in 1959 - France having retained masterpieces such as Van Gogh's bedroom and Gauguin's landscapes. This project aims to study these 360 artworks thanks to a computational analysis in order to eventually propose a visualization in digital humanities, through a collaborative website.
 
