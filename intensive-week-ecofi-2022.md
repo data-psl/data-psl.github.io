@@ -41,23 +41,23 @@ PSL students have priority if they pre-register before XXX.
 The expected program is described below, the morning sessions are from 9am to 12pm and the afternoon sessions from 2pm to 5pm
 
 
-## Day 1:
+### Day 1:
 - Morning: Foundations of Machine Learning, Fabrice Riva (Dauphine Université-PSL)
 - Afternoon: Portfolio simplification with K-means, Fabrice Riva (Dauphine Université-PSL)
 
-## Day 2: Artificial intelligence for credit scoring, Bertrand Hassani (Quant AI Lab)
+### Day 2: Artificial intelligence for credit scoring, Bertrand Hassani (Quant AI Lab)
 
 ### Day 3:
 - Morning: Deep Reinforcement Learning: main principles and algorithms, Eric Benhamou (AI for alpha)
 - Afternoon: Tweeting for Money: Persuasion in Asset Management, Juan Imbet (Dauphine Université-PSL)
 
-_Day 4:
+### Day 4:
 - Morning: Twitter Sentiment Analysis: State-of the art and applications, Thomas Renault (Université Paris-1)
 - Afternoon:
   - Semantic Search for Model Risk Management, Matteo Mamprin and Nadir Ouada (Société Générale)
   - The Hierarchical Equal Risk Contribution Portfolio, Thomas Raffinot (AXA IM)
 
-_Day 5:
+### Day 5:
 - Morning: Introduction to causality in Machine Learning, Ikko Yamane (Dauphine Université-PSL)
 - Afternoon: Investing through Economic Cycles with Machine Learning Algorithms, Sylvain Benoit (Dauphine Université-PSL)
 
