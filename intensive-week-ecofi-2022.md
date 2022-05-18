@@ -18,15 +18,6 @@ _Important:_ Master and PhD students should check with their administration if t
 
 
 
-# Speakers  
-
-
-- [Fabrice Riva](http://www.finance.dauphine.fr/membres/fabrice-riva/)
-- [Ivan Laptev](https://www.di.ens.fr/~laptev/)
-- [Sylvain Benoit](https://sites.google.com/site/sylvainbenoit87/)
-- [Zoran Filipovic](https://sites.google.com/view/zoranfilipovic)
-- [Eric Benhamou](https://www.lamsade.dauphine.fr/~ebenhamou/)
-
 
 # Dates and location
 
