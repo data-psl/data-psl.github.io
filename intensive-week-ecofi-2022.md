@@ -52,12 +52,14 @@ _Day 3:
 - Afternoon: Tweeting for Money: Persuasion in Asset Management, Juan Imbet (Dauphine Université-PSL)
 
 _Day 4:
-- Morning: Thomas Renault
-- Afternoon: Matteo Mamprin and Thomas Raffinot
+- Morning: Twitter Sentiment Analysis: State-of the art and applications, Thomas Renault (Université Paris-1)
+- Afternoon:
+  - Semantic Search for Model Risk Management, Matteo Mamprin and Nadir Ouada (Société Générale)
+  - The Hierarchical Equal Risk Contribution Portfolio, Thomas Raffinot (AXA IM)
 
 _Day 5:
 - Morning: Introduction to causality in Machine Learning, Ikko Yamane (Dauphine Université-PSL)
-- Afternoon: Sylvain Benoit (Dauphine Université-PSL)
+- Afternoon: Investing through Economic Cycles with Machine Learning Algorithms, Sylvain Benoit (Dauphine Université-PSL)
 
 
 
