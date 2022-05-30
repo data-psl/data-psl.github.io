@@ -28,7 +28,7 @@ The list of intensive weeks for spring 2022:
 - [Computer Vision and Time Series for Physics and Engineering (week of the 28th of March)](../intensive-week-cvforphy-2022)
 - [Machine Learning and Statistical Physics](../intensive-week-ml-phystat)(week of the 11th of April)
 - [Machine Learning in Genomics (week of the 4th of April)](../intensive-week-genomics-2022)
-- [Machine Learning for Economics and Finance (June 13th to 17th)](../intensive-ecofi-2022)
+- [Machine Learning for Economics and Finance (June 13th to 17th)](../intensive-week-ecofi-2022)
 
 
 The dedicated web pages will be set up soon. For some of them you can take a look to the *past editions* below to a have details.
