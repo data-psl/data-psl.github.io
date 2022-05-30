@@ -5,13 +5,15 @@ description: "PSL and Dauphine summer school"
 header-img: "img/dauphine-back.jpg"
 ---
 
-As part of the special "transverse program" DATA of PSL, we organize the Eco/Finance AI summer school. You want to learn: 
-- How AI can interact with economics and finance ?
-- How to build machine learning models from data ?
-- What is the connection between causality and machine learning ? 
-- What can we learn from texts (Natural Language Processing) and images (Computer Vision) ? 
-The goal of this summer school is to introduced recent and important tools from data science that can  address issues in the fields of economics and finance. This week  is composed of  livestreamed lectures and lab sessions to provide participants the starter skills. 
+As part of the special “transverse program” DATA of PSL, we organize the Eco/Finance AI summer school.
 
+You want to learn:
+- How can AI interact with economics and finance?
+- How to build machine learning models from data?
+- What is the connection between causality and machine learning?
+- What can we learn from texts (Natural Language Processing)?
+
+The goal of this summer school is to introduce recent and important tools from data science that can address issues in the fields of economics and finance. This week combines lectures and lab sessions to provide participants with the starter skills.
 
 
 _Important:_ Master and PhD students should check with their administration if this course can be validated within their programme. 
@@ -24,16 +26,29 @@ _Important:_ Master and PhD students should check with their administration if t
 
 Dates: June 13 to 17.
 
-Location: TBA
+
+
+
+Location: PariSanté campus, 10 rue d’Oradour-sur-Glane, 75015 Paris
+
+
+# Prerequisites
+
+Knowledge of Python, NumPy and pandas
 
 # Pre-register to the Courses
 
 
 [Pre-registration is free but mandatory](https://forms.gle/ztq59GHq2JD91kDk9).
 
-PSL students have priority if they pre-register before XXX.
+PSL students have priority if they pre-register before the 6th of June.
 
+# Lab sessions
 
+Participants are expected to bring their own laptop for the lab
+sessions. Those who want to setup their computer can install
+anaconda. This Python distribution comes with all the necessary
+tools. Google Colab with a Google account can be used also.
 
 # Schedule
 
