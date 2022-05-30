@@ -10,7 +10,7 @@ Welcome to the homepage of the transverse program for data sciences of PSL. This
 # News
 
 
-- Registrations for the summer school "Machine Learning and AI for Economics and Finance" are now open:  **[check this web page](./intensive-week-ecofi-2022)  !!**
+- Registrations for the summer school "**Machine Learning and AI for Economics and Finance**" are now open:  **[check this web page](./intensive-week-ecofi-2022)  !!**
 
 - Update: The schedules of the intensive week on **Statistical Physics and Machine Learning** have changed: It will be **from the 11th of April to the 15th !**
 
