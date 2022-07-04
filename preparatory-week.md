@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "PSL Preparatory Weeks"
-description: "Preparation courses on machine learning, 2021"
+description: "Preparation courses on machine learning, 2022"
 header-img: "img/dauphine-back.jpg"
 ---
 
 This year, the transverse program for data sciences of PSL proposes two preparatory weeks :
-- **The preparatory week on basics** in math and data science (starting the 30th of August). The students will follow it **remotely and autonomously**. For each part, video lectures, exercise sheets and lab
+- **The preparatory week on basics** in math and data science (starting the 29th of August). The students will follow it **remotely and autonomously**. For each part, video lectures, exercise sheets and lab
 sessions (Python notebooks) will be provided.
-- **The preparatory week on machine learning, bigdata, and  ethics**  (6 to  11 Sept. 2021) 
+- **The preparatory week on machine learning, bigdata, and  ethics**  (5 to  10 Sept. 2022) 
 
 Both weeks are open to all master and PhD students from PSL. Subject
 to availabilities, students from other universities can also
@@ -53,10 +53,10 @@ questions of the students.
 
 # Preparatory week on machine learning, bigdata and ethics
 
-## Dates and (expected) location
+## Dates and location
 
 
-__Dates:__ 5 to  10 Sept. 2021.
+__Dates:__ 5 to  10 Sept. 2022.
 
 __Location:__ Paris Santé Campus 
 
