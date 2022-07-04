@@ -15,29 +15,32 @@ to availabilities, students from other universities can also
 attend. The registration is free but mandatory.  See the two links
 below, one for each week.
 
-# Preparatory week on basics 
+# Preparatory week on basics (remote)
 
-This first preparatory week will start on Monday, August 30. The students will follow it
-remotely and autonomously. For each of the five parts, video lectures, exercise sheets and lab
+This first preparatory week will "start" on Monday, August 29. By the way you can start before: all you need is your moodle account (see the section on registration). 
+The students will follow it remotely and autonomously. For each of the five parts, video lectures, exercise sheets and lab
 sessions under the form of Python notebooks will be provided. For each part, the theoretical
 content (lectures and exercises) should represent about a half day of work (around four hours),
-and the lab session also. It is advised to watch the theoretical content in the morning, and do
-the lab session in the afternoon of the same day.
+and the lab session also.
+
+**It is mandatory to follow this week before the advanced one !!**
 
 ## Pre-registration
 
-[You can pre-register here to the course](https://forms.gle/BaDSwntNRoqGxdPD9).
+[You can pre-register here to the course](https://forms.gle/fjPQ9jV8EtTuGymx6).
 
-PSL students have priority if they pre-register before August 15th.
+PSL students have priority if they pre-register before August 15th. 
+
+To have access to the moddle, you need to register before August the 20th. 
 
 ## Expected roadmap
 
 With this organization in mind, the schedule is as follows :
-- August 30 (Reza Hatami) Functions and sequences 
-- August 31 (Gwendoline de Bie) Basics of linear algebra
-- September 1 (Pierre Ablin) Differential calculus and PCA
-- September 2 (Madalina Olteanu) Statistics
-- September 3 (Pierre Senellart) Databases
+- Reza Hatami: Functions and sequences 
+- Gwendoline de Bie: Basics of linear algebra
+- Pierre Ablin Differential: calculus and PCA
+- Madalina Olteanu: Statistics
+- Pierre Senellart: Databases
 
 
 ## Q&A sessions
@@ -53,20 +56,19 @@ questions of the students.
 ## Dates and (expected) location
 
 
-__Dates:__ 6 to  11 Sept. 2021.
+__Dates:__ 5 to  10 Sept. 2021.
 
-__Location:__ Dauphine + online (TBC).
+__Location:__ Paris Santé Campus 
 
 
-The sessions will be both at Dauphine (if possible) and remotely. 
 
 ## Pre-registration
 
-[You can pre-register here to the course](https://forms.gle/ESDtUAYssDZve3KQ6).
+[You can pre-register here to the course](https://forms.gle/5p253tPugMfPKtkD9).
 
 PSL students have priority if they pre-register before August 15th.
 
-## Program
+## Expected Program
 
 
 **Monday**:
@@ -99,7 +101,7 @@ PSL students have priority if they pre-register before August 15th.
 ## Course materials
 
 
-[Slides and suplementary materials for the lecture and numerics are available.](https://data-psl.github.io/lectures2021/). 
+[Slides and suplementary materials for the lecture and numerics are available.](). 
 
 ## Practical information
 
@@ -110,8 +112,9 @@ These practical sessions will necessitate the use of Python 3 with the standard 
 
 ## Teachers
 
-- [Pierre Ablin](https://pierreablin.com/) (Dauphine Université)
-- [Mathieu Blondel](http://mblondel.org/) (Google Brain)
+
 - [Dario Colazzo](https://www.lamsade.dauphine.fr/~colazzo/) (Dauphine Université).
 - [Thierry Kirat](https://irisso.dauphine.fr/membres/detail-cv.html?tx_sngprofiles_displayprofiles%5Bprofile%5D=2548&tx_sngprofiles_displayprofiles%5Baction%5D=show&tx_sngprofiles_displayprofiles%5Bcontroller%5D=Profile&cHash=172591dfb873872cfb5df5536a3e51cc) (Dauphine Université).
-- [Arthur Mensch](https://www.amensch.fr/) (DeepMind)
+- [Zaccharie Ramzi](https://zaccharieramzi.fr/) (ENS)
+- [Hugo Richard](https://hugorichard.github.io/) (ENSAE-CREST)
+
