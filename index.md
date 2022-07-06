@@ -10,6 +10,16 @@ Welcome to the homepage of the transverse program for data sciences of PSL. This
 - [Intensive training weeks](./intensive-week)
 - Hackathon (comming soon)
 
+# Cross-cutting program : Machine Learning and AI for the Sciences
+In September 2022, the DATA Program of PSL will start the  Cross-cutting program on Machine Learning and AI for the Sciences:
+- For students in master or PhD in PSL
+- You are in another field than Computer-Science or Mathematics
+- You want to extend your skills in you primary discipline with Machine Learning and AI.
+- **This program is for you !!**
+
+[Look at this short description](./assest/data4sciences-ccp.pdf)
+
+
 # News for 2022-2023
 
 - For the third year, the Data Program will organize two [Preparatory
