@@ -74,29 +74,26 @@ PSL students have priority if they pre-register before August 15th.
 **Monday**:
 * 9:00--10:30: (course) Machine learning: recent successes.
 * 11:00-12:30: (course) Introduction to machine learning.
-* 14:00-17:00: (lab session) Introduction to Python and Numpy for data sciences.
+* 14:00-17:30: (lab session) Introduction to Python and Numpy for data sciences.
 
 **Tuesday:**
 * 9:00--10:30: (course) Machine learning models (linear, trees, neural networks).
 * 11:00-12:30: (course) Scikit-learn: estimation/prediction/transformation.
-* 14:00-17:00: (lab session) Practice of Scikit-learn.
+* 14:00-17:30: (lab session) Practice of Scikit-learn.
 
 **Wednesday:**
-* 9:00--10:30: (course) Optimization for linear models.
-* 11:00-12:30: (course) Practical optimization for ML.
-* 14:00-17:00: (lab session) Logistic regression with gradient descent.
+* 9:00-12:30: (course) Ethic in Data Science
+* 14:00-17:30: (course/lab session) Spark for ML
 
 **Thursday:**
-* 9:00--10:30: (course) Introduction to deep learning.
-* 11:00-12:30: (course) Unsupervised learning
-* 14:00-17:00: (lab session) Classification with PyTorch and GPUs.
+* 9:00-12:30: (course) The linear model, optimization
+* 14:00-17:30: (lab session) Logistic regression with gradient descent.
 
 **Friday:**   
-* 10:00-13:00: (course) Introduction to spark for ML 1/2 
-* 14:00-16:00: (lab session) spark for ML 
+* 9:00-12:30: Introduction to Deep-Learning
+* 14:00-16:00: (course/lab session) Spark for ML, part 2
 
-**Saturday:**
-* 9:00-12:00: (course) Ethic in Data Science
+
 
 ## Course materials
 
