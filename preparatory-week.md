@@ -90,7 +90,8 @@ PSL students have priority if they pre-register before August 15th.
 * 14:00-17:30: (lab session) Logistic regression with gradient descent.
 
 **Friday:**   
-* 9:00-12:30: Introduction to Deep-Learning
+* 9:00-10:30: (course) Introduction to Deep-Learning
+* 11:00-12:30 (course) Introduction to unsupervised learning
 * 14:00-16:00: (course/lab session) Spark for ML, part 2
 
 
