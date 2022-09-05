@@ -104,7 +104,7 @@ PSL students have priority if they pre-register before August 15th.
 ## Practical information
 
 
-The afternoon are dedicated to practical sessions using Python. Students will be on their own under a weak supervision from the teachers. Students can use the [discord server](https://discord.gg/NuGRUPV8) chat to communicate, share information, codes, data and help each other during these session.
+The afternoon are dedicated to practical sessions using Python. Students will be on their own under a weak supervision from the teachers. Students can use the [discord server](https://discord.gg/ZcBReVVbdZ) chat to communicate, share information, codes, data and help each other during these session.
 
 These practical sessions will necessitate the use of Python 3 with the standard Scipy ecosystem, Scikit-learn and Pytorch. They will make use of Jupyter notebooks. The easiest way to proceed is to have a gmail account and make use of a remote [Google Colab](https://colab.research.google.com/) to run the notebooks. If you are not confortable with this, or if you want to run the code locally, you need to install the requested python package, preferably using [Anaconda](https://www.anaconda.com/).
 
