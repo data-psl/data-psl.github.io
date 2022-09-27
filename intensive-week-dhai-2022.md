@@ -14,21 +14,23 @@ _Important:_ Master students should check with their master's administration if 
 Dates and location
 ============================
 
-Dates: March 28 to April 1.
+Dates: 21-25 November 2022.
 
 Location: PariSanté Campus (10 rue d’Oradour-sur-Glane à Issy-les-Moulineaux, 92130)
 
 Pre-register to the Courses
 ============================
 
-Pre-registration is now closed.
+Pre-register via this [Google Form](https://forms.gle/dmudBpTW3JScMceY9) (priority will go to PSL Master 2 students).
 
 Courses Content
 ============================
 
+NOTE: The information below is from the previous Intensive Course - updated course and project details for November 2022 will be available shortly.
+
 This week-long course will be split into three types of classes: theory, practice and project. During the project session, students will work in small groups toward a case study of practical importance. The final examination of the course will be a short presentation of the projects.
 
-_List of Courses:_ 
+_List of Courses (March 2022):_ 
 
 - Course 1: _Quantitative Data Analysis and Cartography_ ([Léa Saint-Raymond](https://u-paris10.academia.edu/LéaSaintRaymond)).
 - Course 2: _Computer Vision for the Humanities_ ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/)).
@@ -39,7 +41,7 @@ _The practical sessions will feature:_
 - Python programming for AI.
 - Digital Sources and Tools for the Humanities.
 
-_List of Projects:_
+_List of Projects (March 2022):_
 - Project 1: Matsukata’s Confiscated Collection (Léa Saint-Raymond with Mathieu Rimet-Meille)
 - Project 2: Digital workflow from text retrieval to text alignment on a medieval French text (Lucence Ing)
 - Project 3: Exploring the Twittersphere of the French presidential election (Armin Pournaki)
