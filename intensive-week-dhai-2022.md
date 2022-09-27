@@ -48,9 +48,9 @@ _List of Projects (March 2022):_
 - Project 4: Analysing medieval astronomical diagrams (Tristan Dot and Ségolène Albouy)
 
 
-Schedule
+Schedule (tba)
 ============================
-
+<!--
 _Monday, March 28_
 - 09:00-10:30 - From document to data (Ségolène Albouy)
 - 11:00-12:30 - Computer vision for the humanities #1 (Mathieu Aubry)
@@ -80,9 +80,9 @@ _Friday, April 1_
 - 11:00-12:30 - Projects
 - 14:00-15:30 - Projects - defense
 - 16:00:17:30 - Projects - defense
+ -->
 
-
-Detailed contents
+Detailed contents (for reference only, details for November 2022 forthcoming)
 ============================
 
 **Course 1: _Quantitative data analysis and cartography_, [Léa Saint-Raymond](https://u-paris10.academia.edu/LéaSaintRaymond):**
