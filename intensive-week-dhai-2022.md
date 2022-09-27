@@ -7,7 +7,7 @@ header-img: "img/ens-view.jpg"
 
 As part of the special "transverse program" of PSL, the [DHAI group](https://dhai-seminar.github.io/) organizes with the help of PSL a special 1 week course on the topic of "Digital Humanities Meet Artificial Intelligence". This course is open in priority to Master 2 students of PSL. It is also open to other students (Master and PhD) and researchers, subject to availability.
 
-This intensive training will cover theoretical, numerical and applicative topics at the intersection between these two fields. The structure of the course will be quite innovative, since it will interplay theoretical course, practical sessions with computer labs and projects in small groups.
+This intensive training will cover theoretical and numerical topics, and applications at the intersection between these two fields. The structure of the course will be quite innovative, since it will interplay theoretical topics and practical sessions with computer labs and group projects.
 
 _Important:_ Master students should check with their master's administration if this course can be used to validate one of their master course.
 
@@ -47,10 +47,10 @@ _List of Projects (March 2022):_
 - Project 3: Exploring the Twittersphere of the French presidential election (Armin Pournaki)
 - Project 4: Analysing medieval astronomical diagrams (Tristan Dot and Ségolène Albouy)
 
-
+<!--
 Schedule (tba)
 ============================
-<!--
+
 _Monday, March 28_
 - 09:00-10:30 - From document to data (Ségolène Albouy)
 - 11:00-12:30 - Computer vision for the humanities #1 (Mathieu Aubry)
@@ -87,7 +87,7 @@ Detailed contents (for reference only, details for November 2022 forthcoming)
 
 **Course 1: _Quantitative data analysis and cartography_, [Léa Saint-Raymond](https://u-paris10.academia.edu/LéaSaintRaymond):**
 
-In 1944, the French state sequestered Kojiro Matsukata's collection of paintings and sculptures as enemy property. The fate of this exceptional set was chaotic, until it was returned to Japan in 1959 - France having retained masterpieces such as Van Gogh's bedroom and Gauguin's landscapes. This course and related project aims to study these 360 artworks thanks to a computational analysis in order to eventually propose a visualization in digital humanities, through a collaborative website.
+Between the beginning of the 20th century and his death, the dental surgeon George Viau (1855-1939) built up an exceptional collection, both in terms of size - some 1,200 artworks - and quality, bringing together the greatest Impressionist and Post-Impressionist names such as Monet, Renoir, Sisley, Pissarro, Degas, Morisot, Toulouse-Lautrec, Cézanne, Van Gogh, Denis, Vuillard and many others. Its after-death sale in 1942 produced the largest turnover in WW2 France. 
 
 This course and related project offer training in computational data analysis. Students will receive the following theoretical and practical basics:
 - Basic statistics and econometrics
@@ -119,9 +119,9 @@ _History of astronomy and AI: an overview:_ From Delambre (Histoire de l’astro
 _A step aside:_ from document to data: Based on various examples from the previous session, we will explore how different datasets, exploitable by artificial intelligence algorithms, can be built to address, from historical sources, questions of various nature. We will evoke the stakes related to the transformation of a material document to its various digital representations: from the point of view of its acquisition, its modeling, its encoding, its “augmentation” or even its “simulation”. Finally, we will discuss what constitutes pertinent training datasets from a human sciences perspective as well as a machine learning perspective.
 
 
-**Project 1: Matsukata’s Confiscated Collection (Léa Saint-Raymond with Mathieu Rimet-Meille and Quentin Bernet)**
+**Project 1: Computational analysis of George Viau’s collection (Léa Saint-Raymond with Quentin Bernet)**
 
-In 1944, the French state sequestered Kojiro Matsukata's collection of paintings and sculptures as enemy property. The fate of this exceptional set was chaotic, until it was returned to Japan in 1959 - France having retained masterpieces such as Van Gogh's bedroom and Gauguin's landscapes. This project aims to study these 360 artworks thanks to a computational analysis in order to eventually propose a visualization in digital humanities, through a collaborative website.
+Based on an existing database, created within the framework of the Digital Viau project (https://viau.huma-num.fr/s/collection/page/accueil), this course introduces students to computational analysis. The aim is to reconstruct in detail - and visualize - the complex trajectory of George Viau’s collection, from the acquisition of the paintings, sculptures, drawings and engravings, to their successive dispersals in Parisian public auctions, as well as the networks of buyers and the spatial logics of this corpus. These visualizations will be integrated into the website of the Digital Viau project, and the students will be considered, and cited, as full collaborators in the project.
 
 **Project 2: Digital workflow from text retrieval to text alignment on a medieval French text (Lucence Ing)**
 
@@ -140,6 +140,7 @@ Organizers
 ============================
 
 - [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/)
+- [Jean-Baptiste Camps](https://www.chartes.psl.eu/fr/jean-baptiste-camps)
 - [Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson)
 - [Gabriel Peyré](http://www.gpeyre.com)
 - [Thierry Poibeau](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/)
