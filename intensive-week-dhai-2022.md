@@ -50,41 +50,6 @@ _List of Projects:_
 - Project 3: Analysing medieval astronomical diagrams (Tristan Dot and Ségolène Albouy)
 - Project 4: additional project applying NLP techniques, details forthcoming
 
-<!--
-Schedule (tba)
-============================
-
-_Monday, March 28_
-- 09:00-10:30 - From document to data (Ségolène Albouy)
-- 11:00-12:30 - Computer vision for the humanities #1 (Mathieu Aubry)
-- 14:00-15:30 - Quantitative data analysis and cartography #1 (Léa Saint-Raymond)
-- 16:00:17:30 - Projects
-
-_Tuesday, March 29_
-- 09:00-10:30 - Quantitative data analysis and cartography #2 (Léa Saint-Raymond)
-- 11:00-12:30 - Computer vision for the humanities #2 (Mathieu Aubry)
-- 14:00-15:30 - NLP for the humanities #1 (Thierry Poibeau)
-- 16:00-17:30 - Projects
-
-_Wednesday, March 30_
-- 09:00-10:30 - History of astronomy and AI (Matthieu Husson)
-- 11:00-12:30 - NLP for the humanities #2 (Thierry Poibeau)
-- 14:00-15:30 - NLP for the humanities #3 (Thierry Poibeau)
-- 16:00:17:30 - Projects
-
-_Thursday, March 31_
-- 09:00-10:30 - Computer vision for the humanities #3 (Mathieu Aubry)
-- 11:00-12:30 - Quantitative data analysis and cartography #3 (Léa Saint-Raymond)
-- 14:00-15:30 - Projects
-- 16:00:17:30 - Projects
-
-_Friday, April 1_
-- 09:00-10:30 - Projects
-- 11:00-12:30 - Projects
-- 14:00-15:30 - Projects - defense
-- 16:00:17:30 - Projects - defense
- -->
-
 Project descriptions
 ============================
 
@@ -103,6 +68,37 @@ This project will be focused on the automatic extraction and analysis of diagram
 
 **Project 4: project applying NLP techniques, details forthcoming (Jean Barré)**
 
+
+Schedule (subject to change)
+============================
+
+_Monday, November 21_
+- 09:00-10:30 - History of DH |  From Document to Data
+- 10:45-12:15 - Computer Vision for the Humanities | Web dev for AI 
+- 13:30-14:45 - Group Projects
+- 15:00-17:30 - Group Projects
+
+_Tuesday, November 22_
+- 09:00-10:30 - NLP for the Humanities
+- 10:45-12:15 - Introduction to Stylometry
+- 13:30-14:45 - Group Projects
+- 15:00-17:30 - Group Projects
+
+_Wednesday, November 23_
+- 09:00-10:30 - DH/AI tools for Astronomy
+- 10:45-12:15 - Mentoring/Discussion of projects, sources | Advanced topics in NLP
+- 13:30-14:45 - Group Projects
+- 15:00-17:30 - Group Projects
+
+_Thursday, November 24_
+- 09:00-10:30 - Computer Vision for DH projects
+- 10:45-12:15  - DH for Art & Art History
+- 13:30-14:45 - Group Projects
+- 15:00-17:30 - Group Projects
+
+_Friday, November 25_
+- 09:00-12:15 - Group Projects
+- 13:30-16:30 - Project Defense/Presentations
 
 Organizers
 ============================
