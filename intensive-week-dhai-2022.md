@@ -26,26 +26,29 @@ Pre-register via this [Google Form](https://forms.gle/dmudBpTW3JScMceY9) (priori
 Courses Content
 ============================
 
-NOTE: The information below is from the previous Intensive Course - updated course and project details for November 2022 will be available shortly.
-
 This week-long course will be split into three types of classes: theory, practice and project. During the project session, students will work in small groups toward a case study of practical importance. The final examination of the course will be a short presentation of the projects.
 
-_List of Courses (March 2022):_ 
+_Lecture Topics will include:_ 
 
-- Course 1: _Quantitative Data Analysis and Cartography_ ([Léa Saint-Raymond](https://u-paris10.academia.edu/LéaSaintRaymond)).
-- Course 2: _Computer Vision for the Humanities_ ([Mathieu Aubry](http://imagine.enpc.fr/~aubrym/)).
-- Course 3: _Introduction to Natural Language Processing_ ([Thierry Poibeau](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/)).
-- Course 4: _DH/AI Tools and Astronomy_ ([Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson) and [Ségolène Albouy](https://github.com/Segolene-Albouy)).
+- Introduction to Digital Humanities
+- Computer Vision for the Humanities
+- NLP for the Humanities
+- Introduction to Stylometry
+- Web development for AI
+- DH/AI tools for History of Astronomy
+- Advanced Topics in NLP
+- Computer Vision for Digital Humanities projects
+- Digital Humanities for Art History
 
 _The practical sessions will feature:_
-- Python programming for AI.
-- Digital Sources and Tools for the Humanities.
+- Python programming for AI
+- Digital Sources and Tools for the Humanities
 
-_List of Projects (March 2022):_
-- Project 1: Matsukata’s Confiscated Collection (Léa Saint-Raymond with Mathieu Rimet-Meille)
-- Project 2: Digital workflow from text retrieval to text alignment on a medieval French text (Lucence Ing)
-- Project 3: Exploring the Twittersphere of the French presidential election (Armin Pournaki)
-- Project 4: Analysing medieval astronomical diagrams (Tristan Dot and Ségolène Albouy)
+_List of Projects:_
+- Project 1: Computational analysis of George Viau’s collection (Léa Saint-Raymond with Quentin Bernet)
+- Project 2: Exploring the Twittersphere of the French presidential election (Armin Pournaki)
+- Project 3: Analysing medieval astronomical diagrams (Tristan Dot and Ségolène Albouy)
+- Project 4: additional project applying NLP techniques, details forthcoming
 
 <!--
 Schedule (tba)
@@ -82,63 +85,29 @@ _Friday, April 1_
 - 16:00:17:30 - Projects - defense
  -->
 
-Detailed contents (for reference only, details for November 2022 forthcoming)
+Project descriptions
 ============================
-
-**Course 1: _Quantitative data analysis and cartography_, [Léa Saint-Raymond](https://u-paris10.academia.edu/LéaSaintRaymond):**
-
-Between the beginning of the 20th century and his death, the dental surgeon George Viau (1855-1939) built up an exceptional collection, both in terms of size - some 1,200 artworks - and quality, bringing together the greatest Impressionist and Post-Impressionist names such as Monet, Renoir, Sisley, Pissarro, Degas, Morisot, Toulouse-Lautrec, Cézanne, Van Gogh, Denis, Vuillard and many others. Its after-death sale in 1942 produced the largest turnover in WW2 France. 
-
-This course and related project offer training in computational data analysis. Students will receive the following theoretical and practical basics:
-- Basic statistics and econometrics
-- Factor analysis
-- Network Analysis
-- Cartography
-
-At the end of this training, students will be able to explore a corpus of data and analyze it from a quantitative and relational perspective. They will master the following software:
-- R
-- QGis
-- Gephi
-- and, for the exploratory part, Palladio
-
-
-**Course 2: _Computer vision for the humanities_, [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/):**
-
-Introduction to Computer Vision with a specific focus on Deep Learning. We will introduce the basic principles of Machine Learning and Neural Networks for Computer Vision applications. We will outline the specific difficulties of applications to historical and artistic data, standard use cases in digital humanity (image search, document segmentation, image recognition) and examples of specific projects on [artwork price prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3347175), [historical watermark recognition](http://imagine.enpc.fr/~shenx/Watermark/), [pattern recognition](http://imagine.enpc.fr/~shenx/ArtMiner/) and [discovery in artwork datasets](http://imagine.enpc.fr/~shenx/ArtMiner/).
-
-
-**Course 3: _Introduction to Natural Language Processing_, [Thierry Poibeau](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/):**
-
-Natural language processing (NLP) is now everywhere and has  attained a level of performance which makes it usable in practical contexts, especially for digital humanities projects. During this course, we will see a mix of theoretical and practical issues related to NLP. We will see why NLP is hard, and why recent approaches based on machine learning have made it possible to get efficient and robust modules, usable in digital humanities projects. Lastly, we will show practical implementations, making it possible to used advanced techniques at a reduced cost (from a computational point of view) for different tasks: part-of-speech tagging, named entity recognition and parsing, among others.
-
-
-**Course 4: _DH/AI Tools and Astronomy_, [Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson) and [Ségolène Albouy](https://github.com/Segolene-Albouy):**
-
-_History of astronomy and AI: an overview:_ From Delambre (Histoire de l’astronomie ancienne, Paris,1817) through Neugebauer (History of Ancient Mathematical Astronomy, Berlin, 1975), the history of astronomy produced in Europe has a long relation to quantitative methods. Towards the end of the 1960s, this association intensified with the use of computers to assess ancient observations and computation methods (Poulle and Gingerich, 1968). Today, the rise of digital humanities and its coupling with AI opens new possibilities explored by different research projects. Based on a historiographical overview, this session will illustrate the current challenges emerging at the interface of history of astronomy, AI and Digital humanities with respect to artificial vision, text analysis and reenactment of ancient computations. We will discuss how AI can tackle ambitious challenges relating to issues as diverse as mathematical questions, genealogy of sources, transcription, diagram vectorization, and more.
-
-_A step aside:_ from document to data: Based on various examples from the previous session, we will explore how different datasets, exploitable by artificial intelligence algorithms, can be built to address, from historical sources, questions of various nature. We will evoke the stakes related to the transformation of a material document to its various digital representations: from the point of view of its acquisition, its modeling, its encoding, its “augmentation” or even its “simulation”. Finally, we will discuss what constitutes pertinent training datasets from a human sciences perspective as well as a machine learning perspective.
-
 
 **Project 1: Computational analysis of George Viau’s collection (Léa Saint-Raymond with Quentin Bernet)**
 
-Based on an existing database, created within the framework of the Digital Viau project (https://viau.huma-num.fr/s/collection/page/accueil), this course introduces students to computational analysis. The aim is to reconstruct in detail - and visualize - the complex trajectory of George Viau’s collection, from the acquisition of the paintings, sculptures, drawings and engravings, to their successive dispersals in Parisian public auctions, as well as the networks of buyers and the spatial logics of this corpus. These visualizations will be integrated into the website of the Digital Viau project, and the students will be considered, and cited, as full collaborators in the project.
+Between the beginning of the 20th century and his death, the dental surgeon George Viau (1855-1939) built up an exceptional collection, both in terms of size - some 1,200 artworks - and quality, bringing together the greatest Impressionist and Post-Impressionist names such as Monet, Renoir, Sisley, Pissarro, Degas, Morisot, Toulouse-Lautrec, Cézanne, Van Gogh, Denis, Vuillard and many others. Its after-death sale in 1942 produced the largest turnover in WW2 France. Based on an existing database, created within the framework of the Digital Viau project (https://viau.huma-num.fr/s/collection/page/accueil), this course introduces students to computational analysis. The aim is to reconstruct in detail - and visualize - the complex trajectory of George Viau’s collection, from the acquisition of the paintings, sculptures, drawings and engravings, to their successive dispersals in Parisian public auctions, as well as the networks of buyers and the spatial logics of this corpus. These visualizations will be integrated into the website of the Digital Viau project, and the students will be considered, and cited, as full collaborators in the project. 
 
-**Project 2: Digital workflow from text retrieval to text alignment on a medieval French text (Lucence Ing)**
 
-This project aims to explore a digital workflow on a medieval French text, the _Prose Lancelot_. The workflow enables participants to discover deep-learning methods and automatic text alignment tools. It is made up of several steps : one step of text retrieval, from the pictures of the witnesses (versions of the same text), one step of structuration and enhancement of the text thanks to the use of a deep-learning linguistic tagger, and one step of alignment of witnesses (automatic collation). Then several explorations will enable us to understand the links between the different versions of the text.
+**Project 2: Exploring political debates on Twitter through interactive networks (Armin Pournaki)**
 
-**Project 3: Exploring the Twittersphere of the French presidential election (Armin Pournaki)**
+In this project, we will learn how to collect, analyze and interpret digital trace data from the social media platform Twitter. We will explore controversial topics through interactive networks, which give a structural overview of the debate’s opinion clusters and their main actors. The textual content shared by these clusters will be analyzed using natural language processing (NLP) methods that you get to know in the theoretical course. Combining the network and NLP analysis with a close-reading of the tweets will allow us to generate hypotheses about the underlying mechanisms of opinion dynamics on online social media.
 
-We will learn how to design a sensible search query and collect Twitter data about the French 2022 presidential election. We will explore the data using interactive network visualizations which give a structural overview of the debate’s opinion clusters and their main actors. The textual content shared by these opinion groups will then be analyzed using natural language processing methods that you got to know in your theoretical course. This data exploration will allow us to generate hypotheses about the campaigning mechanisms of political actors on online social media.
-
-**Project 4: Analysing medieval astronomical diagrams (Tristan Dot & Ségolène Albouy)**
+**Project 3: Analysing medieval astronomical diagrams (Tristan Dot & Ségolène Albouy)**
 
 This project will be focused on the automatic extraction and analysis of diagrams from astronomical manuscripts. After a first segmentation step (thanks to a convolutional neural network), we will use deep features in order to discover similar diagrams in our digitized corpus. We will explore how to cluster diagrams according to content and shape, without considering “style,” in order to produce the first AI-assisted critical edition of medieval astronomical diagrams.
+
+**Project 4: project applying NLP techniques, details forthcoming (Jean Barré)**
 
 
 Organizers
 ============================
 
+- [Ségolène Albouy](https://github.com/Segolene-Albouy)
 - [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/)
 - [Jean-Baptiste Camps](https://www.chartes.psl.eu/fr/jean-baptiste-camps)
 - [Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson)
