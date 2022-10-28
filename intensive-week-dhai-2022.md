@@ -86,7 +86,7 @@ _Tuesday, November 22_
 
 _Wednesday, November 23_
 - 09:00-10:30 - DH/AI tools for Astronomy
-- 10:45-12:15 - Mentoring/Discussion of projects, sources :: Advanced topics in NLP
+- 10:45-12:15 - Humanities mentoring for projects :: Advanced topics in NLP
 - 13:30-14:45 - Group Projects
 - 15:00-17:30 - Group Projects
 
