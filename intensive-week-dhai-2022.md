@@ -66,7 +66,15 @@ In this project, we will learn how to collect, analyze and interpret digital tra
 
 This project will be focused on the automatic extraction and analysis of diagrams from astronomical manuscripts. After a first segmentation step (thanks to a convolutional neural network), we will use deep features in order to discover similar diagrams in our digitized corpus. We will explore how to cluster diagrams according to content and shape, without considering “style,” in order to produce the first AI-assisted critical edition of medieval astronomical diagrams.
 
-**Project 4: project applying NLP techniques, details forthcoming (Jean Barré)**
+**Project 4: A Computational Literary History of Gender (Jean Barré)**
+
+This project proposes an overview of the methods used in the computational literary studies. We will apply Text Mining, NLP & Machine Learning techniques to model concepts in large literary corpora. We will focus on the notion of gender and try to evaluate the strength of gender stereotypes over literary history. We will pass through the process used in the field, from meta-data collection, data annotation, to NLP techniques implementation, predictive modelling and interpretative analysis of our results. Several tasks will be in work, with gender stereotypes detection, character gender prediction, author gender prediction and gendered character screentime evaluation.
+
+Indicative bibliography :
+
+https://culturalanalytics.org/article/11035
+
+https://aclanthology.org/2022.jeptalnrecital-humanum.8/
 
 
 Schedule (subject to change)
