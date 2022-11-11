@@ -48,7 +48,7 @@ _List of Projects:_
 - Project 1: Computational analysis of George Viau’s collection (Léa Saint-Raymond with Quentin Bernet)
 - Project 2: Exploring the Twittersphere of the French presidential election (Armin Pournaki)
 - Project 3: Analysing medieval astronomical diagrams (Tristan Dot and Ségolène Albouy)
-- Project 4: additional project applying NLP techniques, details forthcoming
+- Project 4: A Computational Literary History of Gender (Jean Barré)
 
 Project descriptions
 ============================
