@@ -24,7 +24,7 @@ _Important:_ Master and PhD students should check with their administration if t
 # Dates and location
 
 
-Dates: June 13 to 17.
+Dates: November 21 to 25
 
 
 
@@ -60,20 +60,22 @@ The expected program is described below, the morning sessions are from 9am to 12
 - Morning: Foundations of Machine Learning, Fabrice Riva (Dauphine Université-PSL)
 - Afternoon: Portfolio simplification with K-means, Fabrice Riva (Dauphine Université-PSL)
 
-### Day 2: Artificial intelligence for credit scoring, Bertrand Hassani (Quant AI Lab)
+### Day 2: Artificial intelligence in Finance 
+- Morning: No course
+- Afternoon (15h to 18h) [https://dauphine.psl.eu/dauphine/media-et-communication/article/ia-et-finance](Finance and AI (Dauphine Digital Days)). **This is at Dauphine Université**
 
-### Day 3:
+### Day 3: Natural Language Processing
+Course and Lab sessions by Matthieu Labeau. 
+
 - Morning: Deep Reinforcement Learning: main principles and algorithms, Eric Benhamou (AI for alpha)
 - Afternoon: Tweeting for Money: Persuasion in Asset Management, Juan Imbet (Dauphine Université-PSL)
 
 ### Day 4:
-- Morning: Twitter Sentiment Analysis: State-of the art and applications, Thomas Renault (Université Paris-1)
-- Afternoon:
-  - Semantic Search for Model Risk Management, Matteo Mamprin and Nadir Ouada (Société Générale)
-  - The Hierarchical Equal Risk Contribution Portfolio, Thomas Raffinot (AXA IM)
+- Morning: Arthur Thomas (title TBA)
+- Afternoon: Grégoire Pacreau (title TBA) 
 
 ### Day 5:
-- Morning: Introduction to causality in Machine Learning, Ikko Yamane (Dauphine Université-PSL)
+- Morning: Deep Reinforcement Learning, Eric Benhamou (Dauphine Université-PSL)
 - Afternoon: Investing through Economic Cycles with Machine Learning Algorithms, Sylvain Benoit (Dauphine Université-PSL)
 
 

@@ -6,17 +6,12 @@ header-img: "img/ens-garden.jpg"
 ---
 
 
-
-# Aims and scope
 The goal of the intensive weeks organized by the Program
 DATA of PSL is to share during one week new research topics that require
 interactions between machine learning/datascience and an other
 scientific field. A week is organized around courses that bring
 students with different backgrounds to work together on real problems
 involving data.
-
-
-
 
 
 # Spring 2022
