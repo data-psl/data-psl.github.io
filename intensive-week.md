@@ -27,13 +27,14 @@ program of PSL.  Most of these weeks will take place at the PariSanté
 Campus, PSL University.  **Come with your laptop !**
 
 
-## Fall 2022 (from the 21st to the 25th of November 2022)
-- [Digital Humanities Meet Artificial Intelligence (week of the 28th of March)](../intensive-week-dhai-nov-2022)
-- [Machine Learning for Economics and Finance (June 13th to 17th)](../intensive-week-ecofi-nov-2022)
+## Fall 2022 
+From the 21st to the 25th of November 2022:
+- [Digital Humanities Meet Artificial Intelligence](../intensive-week-dhai-nov-2022)
+- [Machine Learning for Economics and Finance](../intensive-week-ecofi-nov-2022)
 
 
-## Spring 2023 (from the 6th to the 10th of March 2023)
-
+## Spring 2023 
+From the 6th to the 10th of March 2023
 - Machine Learning in Genomics 
 - Computer Vision and Time Series for Physics and Engineering
 - Machine Learning and Statistical Physics (for this one the schedule will change)
