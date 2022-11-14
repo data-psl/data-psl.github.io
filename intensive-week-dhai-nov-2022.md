@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PSL Intensive Week"
-description: "Digital Humanities Meet Artificial Intelligence"
+description: "Digital Humanities Meet Artificial Intelligence (3rd Ed.)"
 header-img: "img/ens-view.jpg"
 ---
 

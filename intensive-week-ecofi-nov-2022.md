@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Machine Learning and AI for Economics and Finance, 2nd Ed."
+title: "Machine Learning and AI for Economics and Finance, 3rd Ed."
 description: "PSL and Dauphine summer school"
 header-img: "img/dauphine-back.jpg"
 ---
