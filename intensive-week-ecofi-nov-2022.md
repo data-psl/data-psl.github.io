@@ -67,16 +67,12 @@ The expected program is described below, the morning sessions are from 9am to 12
 ### Day 3: Natural Language Processing
 Course and Lab sessions by Matthieu Labeau. 
 
-- Morning: Deep Reinforcement Learning: main principles and algorithms, Eric Benhamou (AI for alpha)
-- Afternoon: Tweeting for Money: Persuasion in Asset Management, Juan Imbet (Dauphine Université-PSL)
-
 ### Day 4:
-- Morning: Arthur Thomas (title TBA)
-- Afternoon: Grégoire Pacreau (title TBA) 
+- Morning: Arthur Thomas, Backpropagation and automatic differentiation
+- Afternoon: Grégoire Pacreau, Graph neural networks
 
 ### Day 5:
-- Morning: Deep Reinforcement Learning, Eric Benhamou (Dauphine Université-PSL)
-- Afternoon: Investing through Economic Cycles with Machine Learning Algorithms, Sylvain Benoit (Dauphine Université-PSL)
+- From 10 to 13h: Investing through Economic Cycles with Machine Learning Algorithms, Sylvain Benoit (Dauphine Université-PSL)
 
 
 
