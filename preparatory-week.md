@@ -55,7 +55,7 @@ questions of the students.
 ## Dates and location
 
 
-__Dates:__ 5 to  10 Sept. 2022.
+__Dates:__ 30 August to  6 Sept. 2023.
 
 __Location:__ Paris Santé Campus 
 
