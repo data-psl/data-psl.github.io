@@ -20,14 +20,17 @@ In September 2022, the DATA Program of PSL will start the  Cross-cutting program
 [Look at this short description](./assets/data4sciences-ccp.pdf)
 
 
-# News for 2022-2023
+# News for 2023-2024
 
-- For the third year, the Data Program will organize two [Preparatory
-  Weeks](./preparatory-week), from the 5th to 10th of September. Check
-  out the web page for registration and more details.
+- For the fourth year, the Data Program will organize two [Preparatory
+  Weeks](./preparatory-week): one remote (end of August) on basics, and an introduction. 
 
-- The program proposes at least 6 [intensive weeks](./intensive-week), some in november 2022 (from the 21st to the 25th) and the others in March (from the 6th to the 10th). 
-  Check out the webpage for updates on the schedules, programs and registrations.
+- Many [intensive weeks](./intensive-week) will be organized (list
+under construction) some in november 2023 (27th of november to the 1st
+of december 2023) and the others in March 2024 (from the 4th to the
+8th of March 2024). All the information will be available [on the
+dedicated web site of PSL](https://psl-week.psl.eu/).
+
 
 
 

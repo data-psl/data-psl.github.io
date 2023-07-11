@@ -22,24 +22,13 @@ involving data.
 # Upcoming weeks 
 
 
-The list of intensive weeks for 2022-2023 organized by the DATA
-program of PSL.  Most of these weeks will take place at the PariSanté
+The list of intensive weeks for 2023-2024 organized by the DATA
+program of PSL is still under construction.  Most of these weeks will take place at the PariSanté
 Campus, PSL University.  **Come with your laptop !**
 
-
-## Fall 2022 
-From the 21st to the 25th of November 2022:
-- [Digital Humanities Meet Artificial Intelligence](../intensive-week-dhai-nov-2022)
-- [Machine Learning for Economics and Finance](../intensive-week-ecofi-nov-2022)
+The registration will use the [PSL website](https://psl-week.psl.eu/)
 
 
-## Spring 2023 
-From the 6th to the 10th of March 2023
-- Machine Learning in Genomics 
-- Computer Vision and Time Series for Physics and Engineering
-- Machine Learning and Statistical Physics (for this one the schedule will change)
-
-More information will be soon available. 
 
 
 # Past editions

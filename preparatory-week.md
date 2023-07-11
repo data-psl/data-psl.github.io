@@ -1,14 +1,13 @@
 ---
 layout: page
 title: "PSL Preparatory Weeks"
-description: "Preparation courses on machine learning, 2022"
+description: "Preparation courses on machine learning, 2023"
 header-img: "img/dauphine-back.jpg"
 ---
 
 This year, the transverse program for data sciences of PSL proposes two preparatory weeks :
-- **The preparatory week on basics** in math and data science (starting the 29th of August). The students will follow it **remotely and autonomously**. For each part, video lectures, exercise sheets and lab
-sessions (Python notebooks) will be provided.
-- **The preparatory week on machine learning, bigdata, and  ethics**  (5 to  10 Sept. 2022) 
+- **The preparatory week on basics** in math and data science (starting the 21th of August). The students will follow it **remotely and autonomously**. For each part, video lectures, exercise sheets and lab sessions (Python notebooks) will be provided.
+- **The preparatory week on machine learning, bigdata, and  ethics**  (from the 30th of August to the 6th of September 2023) 
 
 Both weeks are open to all master and PhD students from PSL. Subject
 to availabilities, students from other universities can also
@@ -27,7 +26,7 @@ and the lab session also.
 
 ## Pre-registration
 
-[You can pre-register here to the course](https://forms.gle/fjPQ9jV8EtTuGymx6).
+[You can pre-register here to the course](https://forms.gle/h7HJq9ECu6WiS4ZC6).
 
 PSL students have priority if they pre-register before August 15th. 
 
@@ -64,32 +63,32 @@ __Location:__ Paris Santé Campus
 
 ## Pre-registration
 
-[You can pre-register here to the course](https://forms.gle/5p253tPugMfPKtkD9).
+[You can pre-register here to the course](https://forms.gle/s4ykUCfsVVYBpuJZ6).
 
 PSL students have priority if they pre-register before August 15th.
 
 ## Expected Program
 
 
-**Monday**:
+**Day 1**:
 * 9:00--10:30: (course) Machine learning: recent successes.
 * 11:00-12:30: (course) Introduction to machine learning.
 * 14:00-17:30: (lab session) Introduction to Python and Numpy for data sciences.
 
-**Tuesday:**
+**Day 2 :**
 * 9:00--10:30: (course) Machine learning models (linear, trees, neural networks).
 * 11:00-12:30: (course) Scikit-learn: estimation/prediction/transformation.
 * 14:00-17:30: (lab session) Practice of Scikit-learn.
 
-**Wednesday:**
+**Day 3:**
 * 9:00-12:30: (course) Ethic in Data Science
 * 14:00-17:30: (course/lab session) Spark for ML
 
-**Thursday:**
+**Day 4:**
 * 9:00-12:30: (course) The linear model, optimization
 * 14:00-17:30: (lab session) Logistic regression with gradient descent.
 
-**Friday:**   
+**Day 5:**   
 * 9:00-10:30: (course) Introduction to Deep-Learning
 * 11:00-12:30 (course) Introduction to unsupervised learning
 * 14:00-16:00: (course/lab session) Spark for ML, part 2
@@ -99,7 +98,7 @@ PSL students have priority if they pre-register before August 15th.
 ## Course materials
 
 
-[Slides and suplementary materials for the lecture and numerics are available.](https://data-psl.github.io/lectures2022/). 
+[Slides and suplementary materials for the lecture and numerics are available.](https://data-psl.github.io/lectures2023/). 
 
 ## Practical information
 
@@ -110,9 +109,8 @@ These practical sessions will necessitate the use of Python 3 with the standard 
 
 ## Teachers
 
-
+- [Hugo Richard](https://hugorichard.github.io/) (ENSAE-CREST)
 - [Dario Colazzo](https://www.lamsade.dauphine.fr/~colazzo/) (Dauphine Université).
 - [Thierry Kirat](https://irisso.dauphine.fr/membres/detail-cv.html?tx_sngprofiles_displayprofiles%5Bprofile%5D=2548&tx_sngprofiles_displayprofiles%5Baction%5D=show&tx_sngprofiles_displayprofiles%5Bcontroller%5D=Profile&cHash=172591dfb873872cfb5df5536a3e51cc) (Dauphine Université).
-- [Zaccharie Ramzi](https://zaccharieramzi.fr/) (ENS)
-- [Hugo Richard](https://hugorichard.github.io/) (ENSAE-CREST)
+- Come Fiegel (ENSAE-CREST)
 

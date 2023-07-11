@@ -13,6 +13,18 @@ scientific field. A week is organized around courses that bring
 students with different backgrounds to work together on real problems
 involving data.
 
+# Spring 2023 
+From the 6th to the 10th of March 2023
+- Machine Learning in Genomics 
+- Computer Vision and Time Series for Physics and Engineering
+- Machine Learning and Statistical Physics (for this one the schedule will change)
+
+# Fall 2022 
+From the 21st to the 25th of November 2022:
+- [Digital Humanities Meet Artificial Intelligence](../intensive-week-dhai-nov-2022)
+- [Machine Learning for Economics and Finance](../intensive-week-ecofi-nov-2022)
+
+
 
 # Spring 2022
 
