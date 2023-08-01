@@ -68,7 +68,8 @@ __Location:__ Paris Santé Campus
 PSL students have priority if they pre-register before August 15th.
 
 ## Expected Program
-
+This program is a first draft. It can change. The basic pattern is: course in the morning and labs in the afternoon. 
+Check for updates with the teachers on the first day. 
 
 **Day 1**:
 * 9:00--10:30: (course) Machine learning: recent successes.
