@@ -87,8 +87,7 @@ Check for updates with the teachers on the first day. You are required to bring 
 
 **Day 4** (Monday September 4, 2023):
 * 9:00-10:30: (course) Introduction to Deep-Learning
-* 11:00-12:30 (lab session) Deep learning in practice
-* 14:00-17:30: (course/lab session) Spark for ML
+* 11:00-12:30 (lab session) Practical session
 
 **Day 5** (Tuesday September 5, 2023):
 * 9:00-10:30: (course) Introduction to unsupervised learning
