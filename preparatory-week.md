@@ -69,29 +69,30 @@ PSL students have priority if they pre-register before August 15th.
 
 ## Expected Program
 This program is a first draft. It can change. The basic pattern is: course in the morning and labs in the afternoon. 
-Check for updates with the teachers on the first day. 
+Check for updates with the teachers on the first day. You are required to bring your computers for the practical sessions.
 
-**Day 1**:
+**Day 1** (Wednesday August 30, 2023):
 * 9:00--10:30: (course) Machine learning: recent successes.
 * 11:00-12:30: (course) Introduction to machine learning.
 * 14:00-17:30: (lab session) Introduction to Python and Numpy for data sciences.
 
-**Day 2 :**
+**Day 2** (Thursday August 31, 2023):
 * 9:00--10:30: (course) Machine learning models (linear, trees, neural networks).
 * 11:00-12:30: (course) Scikit-learn: estimation/prediction/transformation.
 * 14:00-17:30: (lab session) Practice of Scikit-learn.
 
-**Day 3:**
-* 9:00-12:30: (course) Ethic in Data Science
-* 14:00-17:30: (course/lab session) Spark for ML
-
-**Day 4:**
+**Day 3** (Friday September 1, 2023):
 * 9:00-12:30: (course) The linear model, optimization
 * 14:00-17:30: (lab session) Logistic regression with gradient descent.
 
-**Day 5:**   
+**Day 4** (Monday September 2, 2023):
 * 9:00-10:30: (course) Introduction to Deep-Learning
-* 11:00-12:30 (course) Introduction to unsupervised learning
+* 11:00-12:30 (lab session) Deep learning in practice
+* 14:00-17:30: (course/lab session) Spark for ML
+
+**Day 5** (Tuesday September 3, 2023):
+* 9:00-10:30: (course) Introduction to unsupervised learning
+* 11:00-12:30 (course) Practical session
 * 14:00-16:00: (course/lab session) Spark for ML, part 2
 
 
