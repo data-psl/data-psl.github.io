@@ -92,6 +92,9 @@ Check for updates with the teachers on the first day. You are required to bring 
 **Day 5** (Tuesday September 5, 2023):
 * 9:00-10:30: (course) Introduction to unsupervised learning
 * 11:00-12:30 (course) Practical session
+* 14:00-16:00: (course/lab session) Spark for ML, part 1
+
+**Day 6** (Wednesday, September 6 2023):
 * 14:00-16:00: (course/lab session) Spark for ML, part 2
 
 
