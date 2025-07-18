@@ -72,7 +72,7 @@ PSL students have priority if they pre-register before August 15th.
 ## Course materials, practical informations and expected program
 
 
-[All information for 2024 lectures including slides and notebooks are available](https://data-psl.github.io/lectures2024/). 
+[All information for 2025 lectures including slides and notebooks are available](https://data-psl.github.io/lectures2025/). 
 
 
 ## Teachers
