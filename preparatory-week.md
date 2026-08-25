@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PSL Preparatory Weeks"
-description: "Preparation courses on machine learning, 2023"
+description: "Preparation courses on machine learning, 2026"
 header-img: "img/dauphine-back.jpg"
 ---
 
@@ -55,7 +55,7 @@ questions of the students.
 ## Dates and location
 
 
-__Dates:__ 28 August to  2 Sept. 2024.
+__Dates:__ 26 August to  2 Sept. 2026.
 
 __Location:__ Paris Santé Campus 
 
@@ -72,13 +72,13 @@ PSL students have priority if they pre-register before August 15th.
 ## Course materials, practical informations and expected program
 
 
-[All information for 2025 lectures including slides and notebooks are available](https://data-psl.github.io/lectures2025/). 
+[All information for 2026 lectures including slides and notebooks are available](https://data-psl.github.io/lectures2026/). 
 
 
 ## Teachers
 
-- [Hugo Richard](https://hugorichard.github.io/) (CRITEO)
+- [Corentin Pla](https://www.linkedin.com/in/corentinpla?originalSubdomain=fr) (Criteo-CREST-ENSAE)
+- [Ahmed Ben Yahmed](https://www.linkedin.com/in/ahmed-ben-yahmed-a590ab203/) (Criteo-CREST-ENSAE)
 - [Dario Colazzo](https://www.lamsade.dauphine.fr/~colazzo/) (Dauphine Université).
 - [Thierry Kirat](https://irisso.dauphine.fr/membres/detail-cv.html?tx_sngprofiles_displayprofiles%5Bprofile%5D=2548&tx_sngprofiles_displayprofiles%5Baction%5D=show&tx_sngprofiles_displayprofiles%5Bcontroller%5D=Profile&cHash=172591dfb873872cfb5df5536a3e51cc) (Dauphine Université).
-- Come Fiegel (ENSAE-CREST)
 
